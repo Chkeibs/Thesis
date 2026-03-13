@@ -1,0 +1,631 @@
+name,arrondissement,address,url,latitude,longitude,lambert93_x,lambert93_y
+Zelal,17,"Zelal, 152 Avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/zelal-paris-17.html,48.891188,2.319408,650096.186,6865901.428
+Casse Croute Grec - Chez Copain,5,"Casse Croute Grec - Chez Copain, 4 rue de l'Ecole Polytechnique - 75005 Paris 05",https://www.kebab-frites.com/kebab/casse-croute-grec-paris-05.html,48.847518,2.348202,652167.349,6861027.839
+Streaters,20,"Streaters, 39 Rue Des Pyrénées - 75020 Paris 20",https://www.kebab-frites.com/kebab/streaters-paris-20.html,48.8506041,2.4062394,656428.960,6861337.394
+Mondial Kebab,17,"Mondial Kebab, 190 Avenue de clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/mondial-kebab-paris-17.html,48.893522,2.315358,649801.481,6866163.523
+Le Bosphore,20,"Le Bosphore, 35 rue d'avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/le-bosphore-paris-20.html,48.851899,2.401111,656053.729,6861484.218
+La Voie Lactée,5,"La Voie Lactée, 3 rue des ecoles - 75005 Paris 05",https://www.kebab-frites.com/kebab/la-voie-lactee-paris-05.html,48.847501,2.35227,652465.859,6861023.492
+Easy Food,9,"Easy Food, 18 rue gérando - 75009 Paris 09",https://www.kebab-frites.com/kebab/easy-food-paris-09.html,48.882825,2.346445,652070.907,6864954.763
+L'atelier Dürüm,18,"L'atelier Dürüm, 41 rue de Clignancourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/latelier-durum-paris-18.html,48.886335,2.34743,652146.367,6865344.457
+Impact Berliner Kebap,11,"Impact Berliner Kebap, 119 Rue du Chemin Vert - 75011 Paris 11",https://www.kebab-frites.com/kebab/impact-berliner-kebap-paris-11.html,48.8618058,2.3829859,654732.350,6862596.011
+Restaurant Bodrum,12,"Restaurant Bodrum, 1 Rue Abel - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-bodrum-paris-12.html,48.846178,2.37437,654086.484,6860863.310
+Istanbul Lyon,12,"Istanbul Lyon, 4 rue michel chasles - 75012 Paris 12",https://www.kebab-frites.com/kebab/istanbul-lyon-paris-12.html,48.846342,2.374033,654061.897,6860881.741
+Le Nilu's,12,"Le Nilu's, 192 rue Faubourg Saint Antoine - 75012 Paris 12",https://www.kebab-frites.com/kebab/le-nilus-paris-12.html,48.850086,2.383757,654778.751,6861292.426
+Doner King,17,"Doner King, 141 avenue de Villiers - 75017 Paris 17",https://www.kebab-frites.com/kebab/doner-king-paris-17.html,48.88538,2.292624,648126.538,6865272.876
+Paristanbul Gare De L'est,10,116 Rue du Faubourg Saint-Martin - 75010 Paris 10,https://www.kebab-frites.com/kebab/paristanbul-gare-de-l-39est-paris-10.html,48.8739548,2.3585496,652950.577,6863961.175
+Cilgi Kebab,19,"Cilgi Kebab, 71 Rue De Belleville - 75019 Paris 19",https://www.kebab-frites.com/kebab/cilgi-kebab-paris-19.html,48.873564,2.38318,654756.803,6863903.326
+Aux Délices De La Chapelle,18,"Aux Délices De La Chapelle, 87 rue de la chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/aux-delices-de-la-chapelle-paris-18.html,48.897611,2.358689,652982.166,6866591.526
+Restaurant Adana,19,"Restaurant Adana, 190 Rue de Crimée - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-adana-paris-19.html,48.891299,2.376221,654261.956,6865879.364
+Naan Stop,12,"Naan Stop, 260 rue de charenton - 75012 Paris 12",https://www.kebab-frites.com/kebab/naan-stop-paris-12.html,48.8374308,2.3909178,655293.361,6859881.212
+Cristal Doner,12,"Cristal Doner, 80 Boulevard Diderot - 75012 Paris 12",https://www.kebab-frites.com/kebab/cristal-doner-paris-12.html,48.846732,2.382755,654702.308,6860920.067
+Le Mimosa,15,"Le Mimosa, 79 rue Croix Nivert - 75015 Paris 15",https://www.kebab-frites.com/kebab/le-mimosa-paris-15.html,48.84385,2.296137,648342.984,6860652.794
+Anatolie Durum,5,"Anatolie Durum, 9 Rue De La Harpe - 75005 Paris 05",https://www.kebab-frites.com/kebab/anatolie-durum-paris-05.html,48.852756,2.344674,651913.283,6861612.398
+Buffet Dost,20,"Buffet Dost, 92 rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/buffet-dost-paris-20.html,48.852562,2.40585,656402.024,6861555.310
+Broche’et Kebab,18,"Broche’et Kebab, 60 boulevard Ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/brocheet-kebab-paris-18.html,48.895643,2.346547,652090.182,6866379.992
+Firat,11,"Firat, 175 rue Saint Maur - 75011 Paris 11",https://www.kebab-frites.com/kebab/firat-paris-11.html,48.870368,2.372932,654002.315,6863553.874
+Chez Ibo,10,"Chez Ibo, 218 rue Saint-Maur - 75010 Paris 10",https://www.kebab-frites.com/kebab/chez-ibo-paris-10.html,48.873659,2.370527,653828.821,6863921.214
+Orient Dürüm,19,"Orient Dürüm, 4 rue mathis - 75019 Paris 19",https://www.kebab-frites.com/kebab/orient-durum-paris-19.html,48.8907391,2.3762400,654262.858,6865817.095
+Restaurant Istanbul,18,"Restaurant Istanbul, 10 rue marx dormoy - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-istanbul-paris-18.html,48.885414,2.359565,653035.389,6865234.761
+Mangez Moi,13,"Mangez Moi, 80 Rue de Patay - 75013 Paris 13",https://www.kebab-frites.com/kebab/mangez-moi-paris-13.html,48.826424,2.373193,653982.673,6858667.558
+Le Kebs,17,"Le Kebs, 35 Rue Davy - 75017 Paris 17",https://www.kebab-frites.com/kebab/le-kebs-paris-17.html,48.891544,2.32342,650390.694,6865938.485
+Grill Menilmontant,20,"Grill Menilmontant, 101 rue de Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/grill-menilmontant-paris-20.html,48.8691445,2.3912099,655341.989,6863407.337
+Mehmet,18,"Mehmet, 43 rue Ramey - 75018 Paris 18",https://www.kebab-frites.com/kebab/mehmet-paris-18.html,48.889603,2.345991,652043.856,6865708.713
+Restaurant Kiraz,12,"Restaurant Kiraz, 24 Rue de Wattignies - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-kiraz-paris-12.html,48.83623,2.394384,655546.751,6859745.739
+Basis,10,"Basis, 85 Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/basis-paris-10.html,48.873654,2.354837,652677.997,6863929.946
+Köul Kebab,18,"Köul Kebab, 46 Rue Véron - 75018 Paris 18",https://www.kebab-frites.com/kebab/koul-kebab-paris-18.html,48.885372,2.334524,651199.076,6865245.275
+L'atelier Du Kebab,20,"L'atelier Du Kebab, 119 Rue Pelleport - 75020 Paris 20",https://www.kebab-frites.com/kebab/l-39atelier-du-kebab-paris-20.html,48.8716086,2.3984017,655871.623,6863677.285
+La Boule,2,"La Boule, 118 Rue Saint-Denis - 75002 Paris 02",https://www.kebab-frites.com/kebab/la-boule-paris-02.html,48.864512,2.350282,652335.536,6862916.164
+Mac Food,11,"Mac Food, 60 Rue Du Chemin Vert - 75011 Paris 11",https://www.kebab-frites.com/kebab/mac-food-paris-11.html,48.85947300,2.37615600,654229.231,6862340.560
+Kehribar Istanbul,5,"Kehribar Istanbul, 1 rue des Fossés Saint-Jacques - 75005 Paris 05",https://www.kebab-frites.com/kebab/kehribar-istanbul-paris-05.html,48.846075,2.343263,651803.570,6860870.395
+Broche,2,"Broche, 49 Passage des Panoramas - 75002 Paris 02",https://www.kebab-frites.com/kebab/broche-paris-02.html,48.870959,2.341624,651706.361,6863638.282
+Jubakebab,15,"Jubakebab, 125 rue Vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/jubakebab-paris-15.html,48.844554,2.318509,649985.515,6860716.669
+Délice Jussieu,5,"Délice Jussieu, 4 rue Linné - 75005 Paris 05",https://www.kebab-frites.com/kebab/delice-jussieu-paris-05.html,48.844209,2.35499,652662.474,6860655.820
+Efendi Grill House,19,"Efendi Grill House, 175 Avenue De Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/efendi-grill-house-paris-19.html,48.894668,2.38165,654662.958,6866250.850
+Le Relais de la Bastille,11,"Le Relais de la Bastille, 11 rue de la Roquette - 75011 Paris 11",https://www.kebab-frites.com/kebab/le-relais-de-la-bastille-paris-11.html,48.854133,2.371009,653846.879,6861749.793
+Taksim,19,"Taksim, 170 avenue Jean Jaures - 75019 Paris 19",https://www.kebab-frites.com/kebab/taksim-paris-19.html,48.887494,2.388806,655181.447,6865449.051
+Shawarma Lovers,4,"Shawarma Lovers, 79 Rue Saint-Martin, 75004 Paris - 75004 Paris 04",https://www.kebab-frites.com/kebab/shawarma-lovers-paris-04.html,48.859534,2.350488,652346.095,6862362.527
+Frères Des Batignolles,18,"Frères Des Batignolles, 8 Rue de Clignancourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/freres-des-batignolles-paris-18.html,48.884264,2.347228,652129.651,6865114.296
+Soleil D'or,17,"Soleil D'or, 18 rue Jouffroy d'Abbans - 75017 Paris 17",https://www.kebab-frites.com/kebab/soleil-d-39or-paris-17.html,48.886544,2.311033,649477.606,6865390.369
+Restaurant Burak,11,"Restaurant Burak, 81 avenue Parmentier - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-burak-paris-11.html,48.864893,2.374635,654122.412,6862944.103
+Restaurant Cizbiz,11,"Restaurant Cizbiz, 3 avenue philippe auguste - 75011 Paris 11",https://www.kebab-frites.com/kebab/saray-paris-11.html,48.849616,2.394915,655597.133,6861233.834
+Anatolien,3,"Anatolien, 5 Rue Aux Ours - 75003 Paris 03",https://www.kebab-frites.com/kebab/restaurant-durum-paris-03.html,48.863002,2.35201,652460.924,6862747.222
+L' île De Crête,5,"L' île De Crête, 10 rue Mouffetard - 75005 Paris 05",https://www.kebab-frites.com/kebab/l-ile-de-crete-paris-05.html,48.844591,2.349151,652234.307,6860701.811
+Berliner Das Original,2,"Berliner Das Original, 17 Boulevard de Bonne Nouvelle - 75002 Paris 02",https://www.kebab-frites.com/kebab/berliner-das-original-paris-02.html,48.870036,2.350218,652335.895,6863530.429
+Berliner Das Original,1,"Berliner Das Original, Westfield Forum des Halles, Porte Berger - 75001 Paris 01",https://www.kebab-frites.com/kebab/berliner-das-original-paris-01-1.html,48.861443,2.346426,652049.834,6862577.251
+Berliner Das Original,10,"Berliner Das Original, 25 Rue de Dunkerque - 75010 Paris 10",https://www.kebab-frites.com/kebab/berliner-das-original-paris-10.html,48.880342,2.35374,652603.621,6864674.265
+Berliner Das Original,9,"Berliner Das Original, 16 Rue Joubert - 75009 Paris 09",https://www.kebab-frites.com/kebab/berliner-das-original-paris-09.html,48.874688,2.331041,650933.601,6864059.444
+Berliner Das Original,5,"Berliner Das Original, 92 Boulevard Saint-Germain - 75005 Paris 05",https://www.kebab-frites.com/kebab/berliner-das-original-paris-05.html,48.851262,2.344327,651886.442,6861446.490
+Berliner Das Original,1,"Berliner Das Original, 10 Rue Gomboust - 75001 Paris 01",https://www.kebab-frites.com/kebab/berliner-das-original-paris-01.html,48.867409,2.332767,651053.356,6863249.002
+Restaurant Istanbul,17,"Restaurant Istanbul, 69 avenue Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/restaurant-istanbul-paris-17.html,48.887734,2.324882,650494.268,6865513.918
+Urfa kebab,13,"Urfa kebab, 31 Boulevard Auguste Blanqui - 75013 Paris 13",https://www.kebab-frites.com/kebab/urfa-kebab-paris-13.html,48.82992,2.35194,652425.599,6859068.868
+Galerie kebab,9,"Galerie kebab, 8 Rue Joubert - 75009 Paris 09",https://www.kebab-frites.com/kebab/galerie-kebab-paris-09.html,48.87467,2.331697,650981.699,6864057.035
+Au p'tit grec,5,"Au p'tit grec, 68 rue Mouffetard - 75005 Paris 05",https://www.kebab-frites.com/kebab/au-ptit-grec-paris-05.html,48.842778,2.349607,652266.112,6860499.948
+GemÜse - Berliner Kebap,18,"GemÜse - Berliner Kebap, 61 Rue Ramey - 75018 Paris 18",https://www.kebab-frites.com/kebab/gemse-berliner-kebap-paris-18.html,48.8906034,2.3453220,651995.724,6865820.358
+Sefa Antalya,12,"Sefa Antalya, 74 boulevard diderot - 75012 Paris 12",https://www.kebab-frites.com/kebab/karanfil-paris-12.html,48.846664,2.382154,654658.144,6860912.851
+L'Oasis,10,"L'Oasis, 14 rue du 8 mai 1945 - 75010 Paris 10",https://www.kebab-frites.com/kebab/loasis-paris-10.html,48.876533,2.356483,652801.335,6864249.086
+Munich Kebab Paris,10,71 rue Fbg St Denis - 75010 Paris 10,https://www.kebab-frites.com/kebab/munich-kebab-paris-paris-10.html,48.872728,2.354203,652630.652,6863827.362
+Délices Food,10,"Délices Food, 9 rue Vicq d'Azir - 75010 Paris 10",https://www.kebab-frites.com/kebab/delices-food-paris-10.html,48.876189,2.369602,653763.220,6864203.074
+LÜks Kebab,13,"LÜks Kebab, 6 Rue du Père Guérin - 75013 Paris 13",https://www.kebab-frites.com/kebab/lks-kebab-paris-13.html,48.8304902,2.3544604,652611.137,6859130.753
+LÜks Kebab,10,"LÜks Kebab, 24 Rue de la Grange aux Belles - 75010 Paris 10",https://www.kebab-frites.com/kebab/lks-kebab-paris-10.html,48.876521,2.369001,653719.436,6864240.342
+Good Kebab,5,"Good Kebab, 12 Rue Mouffetard - 75005 Paris 05",https://www.kebab-frites.com/kebab/good-kebab-paris-05.html,48.844471,2.349193,652237.280,6860688.443
+Le Rapide Montmartre,9,"Le Rapide Montmartre, 8 Rue du Faubourg Montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/le-rapide-montmartre-paris-09.html,48.872149,2.343306,651830.838,6863769.573
+Basis,19,"Basis, 79 Rue De Belleville - 75019 Paris 19",https://www.kebab-frites.com/kebab/basis-paris-19.html,48.8736604,2.3838820,654808.377,6863913.643
+Berliner Das Original,14,"Berliner Das Original, 3 Avenue Du Général Leclerc - 75014 Paris 14",https://www.kebab-frites.com/kebab/berliner-das-original-paris-14.html,48.833302,2.331863,650954.953,6859457.192
+Pacha Kebab,11,"Pacha Kebab, 94 Rue Du Faubourg Du Temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/pacha-kebab-paris-11.html,48.871037,2.374277,654101.563,6863627.479
+Pacha Kebab,8,"Pacha Kebab, 21 Rue Amsterdam - 75008 Paris 08",https://www.kebab-frites.com/kebab/pacha-kebab-paris-08.html,48.877637,2.326837,650628.052,6864389.972
+Kebab City,19,"Kebab City, 2 Rue Doct Potain - 75019 Paris 19",https://www.kebab-frites.com/kebab/kebab-city-paris-19.html,48.875622,2.398031,655847.834,6864123.756
+My French Kebab,19,"My French Kebab, 136 Rue Crimée - 75019 Paris 19",https://www.kebab-frites.com/kebab/my-french-kebab-paris-19.html,48.886747,2.381384,654636.555,6865370.227
+Naan Kebab,18,"Naan Kebab, 71 Rue Poissonnière - 75018 Paris 18",https://www.kebab-frites.com/kebab/naan-kebab-paris-18.html,48.891394,2.351579,652455.230,6865904.483
+Kebab Alésia,14,"Kebab Alésia, 37 Rue Alésia - 75014 Paris 14",https://www.kebab-frites.com/kebab/kebab-alesia-paris-14.html,48.827687,2.332711,651011.923,6858832.342
+Ephès,14,"Ephès, 110 Rue Raymond Losserand - 75014 Paris 14",https://www.kebab-frites.com/kebab/ephes-paris-14.html,48.832398,2.31511,649724.346,6859367.213
+Istanbul Ayasofya,12,"Istanbul Ayasofya, 9 bis Rue Michel Chasles - 75012 Paris 12",https://www.kebab-frites.com/kebab/istanbul-ayasofya-paris-12.html,48.847154,2.37371,654038.910,6860972.216
+Restaurant Rayan,12,"Restaurant Rayan, 11 Rue Chaligny - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-rayan-paris-12.html,48.8458963,2.3833976,654748.740,6860826.776
+Paristanbul,9,16 rue Saint-Lazare - 75009 Paris 09,https://www.kebab-frites.com/kebab/paristanbul-paris-09.html,48.876881,2.33786,651435.790,6864299.074
+Chez Cleopatre,9,"Chez Cleopatre, 46 Rue Condorcet - 75009 Paris 09",https://www.kebab-frites.com/kebab/chez-cleopatre-paris-09.html,48.880259,2.343531,651854.839,6864671.213
+Le Berlinois,18,"Le Berlinois, 64 Bis Rue Du Ruisseau - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-berlinois-paris-18.html,48.894941,2.340926,651677.420,6866305.358
+Dailyfood,16,"Dailyfood, 194 avenue de versailles - 75016 Paris 16",https://www.kebab-frites.com/kebab/dailyfood-paris-16.html,48.839216,2.260919,645753.560,6860161.162
+Les Frères Des Batignolles,17,"Les Frères Des Batignolles, 43 Rue Des Batignolles - 75017 Paris 17",https://www.kebab-frites.com/kebab/les-freres-des-batignolles-paris-17.html,48.885465,2.31992,650128.246,6865264.741
+Kebab Des Batignolles - L'original,17,"Kebab Des Batignolles - L'original, 43 Rue Des Batignolles - 75017 Paris 17",https://www.kebab-frites.com/kebab/restaurant-bodrum-paris-17.html,48.885465,2.31992,650128.246,6865264.741
+Ozlem Snack,10,"Ozlem Snack, 57 rue Petites Ecuries - 75010 Paris 10",https://www.kebab-frites.com/kebab/ozlem-snack-paris-10.html,48.87392,2.34857,652218.573,6863963.298
+Grill Istanbul,10,"Grill Istanbul, 219 Rue du Faubourg Saint-Martin - 75010 Paris 10",https://www.kebab-frites.com/kebab/grill-istanbul-paris-10.html,48.881058,2.364895,653422.346,6864747.242
+Bosphore,13,"Bosphore, 111 Avenue d'Italie - 75013 Paris 13",https://www.kebab-frites.com/kebab/bosphore-paris-13.html,48.822366,2.358745,652918.325,6858224.873
+Tour Food,7,"Tour Food, 24 Avenue de Tourville - 75007 Paris 07",https://www.kebab-frites.com/kebab/tour-food-paris-07.html,48.854259,2.306961,649147.503,6861803.144
+Golden Food,18,"Golden Food, 15 Rue De La Chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/golden-food-paris-18.html,48.891323,2.359669,653048.343,6865891.748
+Matisse,14,"Matisse, 60 Avenue Du Général Leclerc - 75014 Paris 14",https://www.kebab-frites.com/kebab/matisse-paris-14.html,48.829942,2.328413,650698.532,6859085.747
+Restaurant Gap,5,"Restaurant Gap, 39 Rue Pascal - 75005 Paris 05",https://www.kebab-frites.com/kebab/restaurant-gap-paris-05.html,48.838174,2.349502,652254.189,6859988.094
+Bodrum,10,"Bodrum, 190 Rue Faubourg Saint Martin - 75010 Paris 10",https://www.kebab-frites.com/kebab/bodrum-paris-10.html,48.878783,2.362556,653248.769,6864495.659
+Ô-délice,17,"Ô-délice, 48 Boulevard Gouvion Saint Cyr - 75017 Paris 17",https://www.kebab-frites.com/kebab/o-delice-paris-17.html,48.88133,2.285409,647593.385,6864827.307
+Ladess,17,"Ladess, 15 Avenue De Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/ladess-paris-17.html,48.884976,2.326576,650615.869,6865206.184
+Baobab,1,"Baobab, 74 Rue St Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/baobab-paris-01-1.html,48.861778,2.349280,652259.523,6862612.771
+Koch!,11,"Koch!, 54 Rue Basfroi - 75011 Paris 11",https://www.kebab-frites.com/kebab/koch-paris-11.html,48.856616,2.378088,654368.475,6862021.767
+Sürpriz,11,"Sürpriz, 110 Rue Oberkampf - 75011 Paris 11",https://www.kebab-frites.com/kebab/surpriz-paris-11.html,48.8659664,2.3790391,654446.435,6863060.908
+Restaurant Antalya,14,"Restaurant Antalya, 19 Rue Pernety - 75014 Paris 14",https://www.kebab-frites.com/kebab/restaurant-antalya-paris-14.html,48.832911,2.319694,650061.326,6859421.344
+Saz,2,"Saz, 24 Rue Du Quatre Septembre - 75002 Paris 02",https://www.kebab-frites.com/kebab/saz-paris-02.html,48.869947,2.335153,651230.760,6863529.732
+Le Wagon Du Nord,10,"Le Wagon Du Nord, 1 Rue Compiegne - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-wagon-du-nord-paris-10.html,48.879841,2.353366,652575.737,6864618.782
+Restaurant Istanbul,10,"Restaurant Istanbul, 56 Boulevard De Magenta - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-istanbul-paris-10.html,48.873446,2.358858,652972.738,6863904.416
+Restaurant Istanbul,13,"Restaurant Istanbul, 46 Avenue Des Gobelins - 75013 Paris 13",https://www.kebab-frites.com/kebab/restaurant-istanbul-paris-13.html,48.83436,2.353231,652524.413,6859561.770
+Kingfood,19,"Kingfood, 107 Rue Manin - 75019 Paris 19",https://www.kebab-frites.com/kebab/kingfood-paris-19.html,48.883338,2.388079,655124.556,6864987.339
+Niekebab,2,"Niekebab, 1 Rue Vapillon - 75002 Paris 02",https://www.kebab-frites.com/kebab/niekebab-paris-02.html,48.868003,2.333804,651129.984,6863314.408
+Les Délices Saint-marcel,5,"Les Délices Saint-marcel, 55 Boulevard Saint Marcel - 75005 Paris 05",https://www.kebab-frites.com/kebab/les-delices-saint-marcel-paris-05.html,48.838569,2.356785,652789.098,6860027.635
+Délice Du Val,5,"Délice Du Val, 23 Rue Val De Grace - 75005 Paris 05",https://www.kebab-frites.com/kebab/delice-du-val-paris-05.html,48.841594,2.338114,651421.529,6860375.308
+La Turquoise,15,"La Turquoise, 99 Rue Falguière - 75015 Paris 15",https://www.kebab-frites.com/kebab/la-turquoise-paris-15.html,48.83801,2.311328,649452.171,6859993.619
+Barak,10,"Barak, 62 Rue Du Faubourg Poissonnière - 75010 Paris 10",https://www.kebab-frites.com/kebab/barak-paris-10.html,48.875511,2.348275,652198.396,6864140.384
+Restaurant La Paix,11,"Restaurant La Paix, 52 Rue Godefroy Cavaignac - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-la-paix-paris-11.html,48.857046,2.380053,654513.025,6862068.445
+O’royal Restaurant /kebab Pizza Tacos,19,"O’royal Restaurant /kebab Pizza Tacos, 7 Bis Rue Riquet - 75019 Paris 19",https://www.kebab-frites.com/kebab/oroyal-restaurant-kebab-pizza-tacos-paris-19.html,48.888193,2.376112,654251.235,6865534.056
+Le Comptoir Du Kebab,11,"Le Comptoir Du Kebab, 267 Boulevard Voltaire - 75011 Paris 11",https://www.kebab-frites.com/kebab/le-comptoir-du-kebab-paris-11.html,48.849875,2.393844,655518.762,6861263.236
+Berliner Kebab,11,"Berliner Kebab, 134 Boulevard Voltaire - 75011 Paris 11",https://www.kebab-frites.com/kebab/berliner-kebab-paris-11.html,48.857012,2.381119,654591.209,6862064.051
+Barbès Food,18,"Barbès Food, 5 Rue De Clignancourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/barbes-food-paris-18.html,48.884017,2.346949,652108.964,6865087.000
+Marmara House,8,"Marmara House, 3 Rue De Constantinople - 75008 Paris 08",https://www.kebab-frites.com/kebab/marmara-house-paris-08.html,48.879576,2.321386,650230.120,6864608.998
+Istanbul,15,"Istanbul, 78 Rue De Javel - 75015 Paris 15",https://www.kebab-frites.com/kebab/istanbul-paris-15-1.html,48.844474,2.284387,647481.295,6860729.928
+Délicieux Istanbul,10,"Délicieux Istanbul, 97 Rue La Fayette - 75010 Paris 10",https://www.kebab-frites.com/kebab/delicieux-istanbul-paris-10.html,48.87752,2.349811,652312.893,6864362.843
+Chich',13,"Chich', 8 Rue Du Père Guérin - 75013 Paris 13",https://www.kebab-frites.com/kebab/chich-paris-13.html,48.830426,2.354298,652599.157,6859123.712
+Repère Gourmand,16,"Repère Gourmand, 31 Boulevard Murat - 75016 Paris 16",https://www.kebab-frites.com/kebab/repere-gourmand-paris-16.html,48.844964,2.257597,645515.751,6860802.562
+L'Etoile de Tunis,18,"L'Etoile de Tunis, 42 boulevard Barbès - 75018 Paris 18",https://www.kebab-frites.com/kebab/letoile-de-tunis-paris-18.html,48.886918,2.349786,652319.665,6865407.858
+Mac Beni,18,"Mac Beni, 16 place de la chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/mac-beni-paris-18.html,48.8850047,2.3599909,653066.251,6865188.996
+Buffet d'Auteuil,16,"Buffet d'Auteuil, 75 rue d'auteuil - 75016 Paris 16",https://www.kebab-frites.com/kebab/buffet-dauteuil-paris-16.html,48.8478508,2.2608234,645755.532,6861121.321
+Kool Too,20,"Kool Too, 135 Rue des Pyrénées - 75020 Paris 20",https://www.kebab-frites.com/kebab/kool-too-paris-20.html,48.857966,2.403351,656223.194,6862157.573
+L'etoile Du Bonheur,13,"L'etoile Du Bonheur, 15 Rue Guy De La Brosse - 75013 Paris 13",https://www.kebab-frites.com/kebab/letoile-du-bonheur-paris-13.html,48.844843,2.35506,652668.187,6860726.272
+Anatolie,13,"Anatolie, 79 boulevard Vincent Auriol - 75013 Paris 13",https://www.kebab-frites.com/kebab/anatolie-paris-13.html,48.834563,2.36761,653580.051,6859575.792
+L'Escale De Plaisance,14,"L'Escale De Plaisance, 180 Rue d'Alésia - 75014 Paris 14",https://www.kebab-frites.com/kebab/lescale-de-plaisance-paris-14.html,48.83224700,2.31311100,649577.463,6859351.699
+Les Saveurs de Versailles,16,"Les Saveurs de Versailles, 43 Avenue de versailles - 75016 Paris 16",https://www.kebab-frites.com/kebab/les-saveurs-de-versailles-paris-16.html,48.848825,2.275413,646827.153,6861219.718
+Le soleil de Bodrum,19,"Le soleil de Bodrum, 77 avenue Jean Jaures - 75019 Paris 19",https://www.kebab-frites.com/kebab/le-soleil-de-bodrum-paris-19.html,48.885049,2.378246,654404.962,6865183.226
+L'escale de Bercy,12,"L'escale de Bercy, 8 rue de Dijon - 75012 Paris 12",https://www.kebab-frites.com/kebab/lescale-de-bercy-paris-12.html,48.8354795,2.3859524,654927.221,6859667.071
+Restaurant d'Oré,12,"Restaurant d'Oré, 8-12 Rue des Meuniers - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-dore-paris-12.html,48.833607,2.398641,655856.995,6859451.700
+Full Moon,17,"Full Moon, 103 Boulevards des Maréchaux - 75017 Paris 17",https://www.kebab-frites.com/kebab/full-moon-paris-17.html,48.842508,2.43876,658808.930,6860419.726
+Restaurant Pacha,5,"Restaurant Pacha, 4bis rue des Ecoles - 75005 Paris 05",https://www.kebab-frites.com/kebab/restaurant-pacha-paris-05.html,48.847859,2.351957,652443.217,6861063.487
+Restaurant Bosphore,13,"Restaurant Bosphore, 168 Boulevard Vincent Auriol - 75013 Paris 13",https://www.kebab-frites.com/kebab/restaurant-bosphore-paris-13.html,48.831842,2.358085,652878.433,6859278.888
+Extra Grec 1987,9,"Extra Grec 1987, 1 Place de Budapest - 75009 Paris 09",https://www.kebab-frites.com/kebab/extra-grec-1987-paris-09.html,48.87704,2.327181,650652.715,6864323.375
+Grill agora,13,"Grill agora, 150 boulevard Masséna - 75013 Paris 13",https://www.kebab-frites.com/kebab/grill-agora-paris-13.html,48.819419,2.361449,653114.201,6857895.594
+Restaurant Cinar,12,"Restaurant Cinar, 218 rue du Faubourg Saint Antoine - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-cinar-paris-12.html,48.8495640,2.3872367,655033.643,6861232.398
+Urfa Durum,10,"Urfa Durum, 58 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/urfa-durum-paris-10.html,48.872402,2.354264,652634.830,6863791.076
+Délice Dégustation,10,"Délice Dégustation, 8 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/delice-degustation-paris-10.html,48.870119,2.352977,652538.350,6863537.996
+Les délices d'amour,19,"Les délices d'amour, 10 avenue Jean Jaurès - 75019 Paris 19",https://www.kebab-frites.com/kebab/les-delices-damour-paris-19.html,48.882887,2.371239,653889.215,6864946.893
+Chez les deux amis,20,"Chez les deux amis, 110 rue de Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/chez-les-deux-amis-paris-20.html,48.869591,2.393573,655515.713,6863455.651
+Café Restaurant La Paix,18,"Café Restaurant La Paix, 33 rue de la Chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/cafe-restaurant-la-paix-paris-18.html,48.892807,2.359499,653037.217,6866056.862
+Au p'tit Snack,6,"Au p'tit Snack, 21 Rue Saint André des Arts - 75006 Paris 06",https://www.kebab-frites.com/kebab/au-ptit-snack-paris-06.html,48.853253,2.342659,651765.890,6861668.889
+Le Savoureux Chaptal,17,"Le Savoureux Chaptal, 74 Boulevard des Batignolles - 75017 Paris 17",https://www.kebab-frites.com/kebab/le-savoureux-chaptal-paris-17.html,48.882176,2.319784,650115.122,6864899.111
+Quart Diner,17,"Quart Diner, 77 Rue Cardinet - 75017 Paris 17",https://www.kebab-frites.com/kebab/quart-diner-paris-17.html,48.884274,2.309084,649332.479,6865139.208
+Le Gyros,5,"Le Gyros, 3 rue de la Harpe - 75005 Paris 05",https://www.kebab-frites.com/kebab/le-gyros-paris-05.html,48.852973,2.34471,651916.125,6861636.504
+Alésia Food,14,"Alésia Food, 223 rue d'Alésia - 75014 Paris 14",https://www.kebab-frites.com/kebab/alesia-food-paris-14.html,48.8289266,2.3293153,650763.809,6858972.283
+Istanbul Gourmand,19,"Istanbul Gourmand, 206 Avenue Jean Jaures - 75019 Paris 19",https://www.kebab-frites.com/kebab/istanbul-gourmand-paris-19.html,48.888494,2.392634,655463.002,6865558.080
+House Food,15,"House Food, 76 rue de la procession - 75015 Paris 15",https://www.kebab-frites.com/kebab/house-food-paris-15.html,48.836025,2.310558,649393.728,6859773.402
+Chez Les 4 Frères Bedri,10,"Chez Les 4 Frères Bedri, 38 Rue Louis Blanc - 75010 Paris 10",https://www.kebab-frites.com/kebab/chez-les-4-freres-bedri-paris-10.html,48.88153,2.364614,653402.160,6864799.892
+La Grèce,13,"La Grèce, 3 Place Vénétie - 75013 Paris 13",https://www.kebab-frites.com/kebab/la-grece-paris-13.html,48.821735,2.364171,653316.134,6858151.492
+Stella Pizza,15,"Stella Pizza, 90 Rue Des Entrepreneurs - 75015 Paris 15",https://www.kebab-frites.com/kebab/stella-pizza-paris-15.html,48.8441,2.291753,648021.497,6860683.469
+Orient Express 2,2,"Orient Express 2, rue des Petits Carreaux - 75002 Paris 02",https://www.kebab-frites.com/kebab/orient-express-2-paris-02.html,48.866394,2.347272,652116.451,6863127.249
+Restaurant Antalya,12,"Restaurant Antalya, 284 Rue de Charenton - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-antalya-paris-12.html,48.836242,2.391906,655364.876,6859748.471
+Good Time,13,"Good Time, 81 rue Tolbiac - 75013 Paris 13",https://www.kebab-frites.com/kebab/good-time-paris-13.html,48.8270857,2.3677812,653585.960,6858744.299
+O'Delice,13,"O'Delice, 32 rue Regnault - 75013 Paris 13",https://www.kebab-frites.com/kebab/odelice-paris-13.html,48.82458,2.376571,654229.046,6858460.563
+Good Time,13,"Good Time, 32 Rue de Tolbiac - 75013 Paris 13",https://www.kebab-frites.com/kebab/good-time-paris-13-1.html,48.828644,2.372999,653970.390,6858914.510
+Restaurant Paristanbul,18,113 Avenue de Saint Ouen - 75018 Paris 18,https://www.kebab-frites.com/kebab/restaurant-paristanbul-paris-18.html,48.8971971,2.3288345,650793.038,6866563.693
+France Gourmet,13,"France Gourmet, 195 rue de Tolbiac - 75013 Paris 13",https://www.kebab-frites.com/kebab/france-gourmet-paris-13.html,48.825687,2.34988,652270.501,6858599.451
+Chez Yanina,9,"Chez Yanina, 17 Rue du Faubourg Montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/chez-yanina-paris-09.html,48.872672,2.343028,651810.931,6863827.897
+Délices aux mille et une epices,11,"Délices aux mille et une epices, 63 rue jean pierre timbaud - 75011 Paris 11",https://www.kebab-frites.com/kebab/delices-aux-mille-et-une-epices-paris-11.html,48.867215,2.375355,654177.274,6863201.874
+Midi express,13,"Midi express, 225 rue de tolbiac - 75013 Paris 13",https://www.kebab-frites.com/kebab/midi-express-paris-13.html,48.825776,2.345597,651956.148,6858611.944
+Sandwicherie du Parc,13,"Sandwicherie du Parc, Rue de l'amiral Mouchez - 75013 Paris 13",https://www.kebab-frites.com/kebab/sandwicherie-du-parc-paris-13.html,48.8256029,2.3415131,651656.169,6858595.190
+La paix,14,"La paix, 14 rue d'odessa - 75014 Paris 14",https://www.kebab-frites.com/kebab/la-paix-paris-14.html,48.8423205,2.3244125,650416.637,6860464.604
+Rapido Legendre,17,"Rapido Legendre, 58 rue Legendre - 75017 Paris 17",https://www.kebab-frites.com/kebab/rapido-legendre-paris-17.html,48.8851577,2.3160928,649847.300,6865232.995
+Doner king,16,"Doner king, 54 avenue mozart - 75016 Paris 16",https://www.kebab-frites.com/kebab/doner-king-paris-16.html,48.855015,2.269519,646401.009,6861911.968
+Tubigo Sandwich,2,"Tubigo Sandwich, 27 rue de turbigo - 75002 Paris 02",https://www.kebab-frites.com/kebab/tubigo-sandwich-paris-02.html,48.864329,2.350634,652361.191,6862895.603
+Chez Salem - Boulangerie Sandwich,18,"Chez Salem - Boulangerie Sandwich, 20 boulevard de clichy - 75018 Paris 18",https://www.kebab-frites.com/kebab/chez-salem-boulangerie-sandwich-paris-18.html,48.882546,2.337679,651427.799,6864929.096
+Pitzman,4,"Pitzman, 8 rue Pavée - 75004 Paris 04",https://www.kebab-frites.com/kebab/pitzman-paris-04.html,48.855916,2.360413,653071.005,6861954.292
+Biss halal,20,"Biss halal, 63 rue planchat - 75020 Paris 20",https://www.kebab-frites.com/kebab/biss-halal-paris-20.html,48.856412,2.396048,655686.054,6861988.855
+Feyrouz,15,"Feyrouz, 8 rue de Lourmel - 75015 Paris 15",https://www.kebab-frites.com/kebab/feyrouz-paris-15.html,48.850166,2.291828,648033.050,6861357.895
+Restaurant Tuna,10,"Restaurant Tuna, 171 Boulevard de la Villette - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-tuna-paris-10.html,48.884146,2.365019,653434.201,6865090.536
+Al Baraka,19,"Al Baraka, 76 avenue Jean Jaurès - 75019 Paris 19",https://www.kebab-frites.com/kebab/al-baraka-paris-19.html,48.884646,2.37793,654381.436,6865138.597
+Restaurant Bircan,10,"Restaurant Bircan, 160 rue du faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-bircan-paris-10.html,48.878974,2.357054,652845.424,6864520.168
+Le Titanic II,5,"Le Titanic II, 6 boulevard St Marcel - 75005 Paris 05",https://www.kebab-frites.com/kebab/le-titanic-ii-paris-05.html,48.839944,2.361104,653107.336,6860177.947
+Filakia,2,"Filakia, 9 rue Mandar - 75002 Paris 02",https://www.kebab-frites.com/kebab/filakia-paris-02.html,48.865657,2.345548,651989.304,6863046.347
+Sud Food,13,"Sud Food, 69 Avenue des Gobelins - 75013 Paris 13",https://www.kebab-frites.com/kebab/sud-food-paris-13.html,48.833665,2.354341,652605.258,6859483.827
+La Baraka,12,"La Baraka, 176 Rue du Faubourg Saint-Antoine - 75012 Paris 12",https://www.kebab-frites.com/kebab/la-baraka-paris-12.html,48.85021,2.382403,654679.501,6861306.990
+Mezzo Mezze,9,"Mezzo Mezze, 85 rue lafayette - 75009 Paris 09",https://www.kebab-frites.com/kebab/mezzo-mezze-paris-09.html,48.877064,2.348057,652183.833,6864313.199
+Istambul grill,5,"Istambul grill, 98 rue monge - 75005 Paris 05",https://www.kebab-frites.com/kebab/istambul-grill-paris-05.html,48.840658,2.351466,652400.609,6860263.103
+Urfa Kebab,18,"Urfa Kebab, 11 Boulevard Ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/urfa-kebab-paris-18.html,48.892504,2.348676,652243.394,6866029.661
+Maison du Gyros,5,"Maison du Gyros, 26 rue Saint-Séverin - 75005 Paris 05",https://www.kebab-frites.com/kebab/maison-du-gyros-paris-05-1.html,48.852503,2.34508,651942.841,6861584.019
+Planet Food,15,"Planet Food, 108 rue de la Convention - 75015 Paris 15",https://www.kebab-frites.com/kebab/planet-food-paris-15.html,48.841156,2.287521,647707.964,6860358.922
+Chez Rayan,9,"Chez Rayan, 36 Rue Pierre Semard - 75009 Paris 09",https://www.kebab-frites.com/kebab/chez-rayan-paris-09.html,48.879103,2.348512,652219.074,6864539.647
+Alto,10,"Alto, 223 rue Saint Maur - 75010 Paris 10",https://www.kebab-frites.com/kebab/alto-paris-10.html,48.873431,2.370471,653824.511,6863895.894
+Moulin de Marmaris,17,"Moulin de Marmaris, 182 Avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/moulin-de-marmaris-paris-17.html,48.892922,2.316394,649876.862,6866096.149
+La Zorba,10,"La Zorba, Rue du faubourd du temple - 75010 Paris 10",https://www.kebab-frites.com/kebab/la-zorba-paris-10.html,48.869803,2.370121,653795.621,6863492.691
+L'escale de l'auberges,20,"L'escale de l'auberges, 176 Rue de Bagnolet - 75020 Paris 20",https://www.kebab-frites.com/kebab/lescale-de-lauberges-paris-20.html,48.864007,2.408145,656579.964,6862826.639
+Flore Doner,11,"Flore Doner, 2 Rue Folie Méricourt - 75011 Paris 11",https://www.kebab-frites.com/kebab/flore-doner-paris-11.html,48.861245,2.375002,654146.125,6862538.261
+Doner Burger,20,"Doner Burger, 52 Rue Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/doner-burger-paris-20.html,48.868173,2.387942,655101.438,6863301.166
+O'Prestige,14,"O'Prestige, 73 rue pernety - 75014 Paris 14",https://www.kebab-frites.com/kebab/oprestige-paris-14.html,48.834798,2.31665,649839.699,6859633.087
+King Food,13,"King Food, 6 Rue Charles Moureu - 75013 Paris 13",https://www.kebab-frites.com/kebab/king-food-paris-13.html,48.826956,2.363343,653260.023,6858732.496
+Restaurant Kemer,9,"Restaurant Kemer, 64 rue faubourg montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/restaurant-kemer-paris-09.html,48.876259,2.340042,651595.245,6864228.572
+Good Time Resto,14,"Good Time Resto, 29 rue de la Gaité - 75014 Paris 14",https://www.kebab-frites.com/kebab/good-time-resto-paris-14.html,48.839538,2.323566,650351.861,6860155.751
+Le Soleil,19,"Le Soleil, 146 avenue de Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/le-soleil-paris-19.html,48.893737,2.381137,654624.535,6866147.622
+Grenelle Food,15,"Grenelle Food, 105 Boulevard de Grenelle - 75015 Paris 15",https://www.kebab-frites.com/kebab/grenelle-food-paris-15.html,48.849519,2.297199,648426.533,6861282.434
+O'Moon,17,"O'Moon, 103 Boulevard Bessières - 75017 Paris 17",https://www.kebab-frites.com/kebab/omoon-paris-17.html,48.895533,2.317315,649946.899,6866385.894
+Chickito,18,"Chickito, 98 Rue de Clignancourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/chickito-paris-18.html,48.891455,2.348789,652250.717,6865912.950
+O'Délice,17,"O'Délice, 171 avenue de clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/odelice-paris-17.html,48.892474,2.316661,649896.007,6866046.164
+El Amal,18,"El Amal, 1 rue de la Charbonnière - 75018 Paris 18",https://www.kebab-frites.com/kebab/el-amal-paris-18.html,48.884877,2.355509,652737.472,6865177.470
+Memo's Resto,13,"Memo's Resto, 52 rue du chevaleret - 75013 Paris 13",https://www.kebab-frites.com/kebab/memos-resto-paris-13.html,48.829239,2.376187,654204.947,6858978.813
+Nazar,17,"Nazar, 161 rue de Rome - 75017 Paris 17",https://www.kebab-frites.com/kebab/nazar-paris-17.html,48.887,2.314688,649746.063,6865438.741
+Restaurant Naline,14,"Restaurant Naline, 77 bis rue de la Tombe Issoire - 75014 Paris 14",https://www.kebab-frites.com/kebab/restaurant-naline-paris-14.html,48.82766,2.332588,651002.868,6858829.416
+Grillade Lafayette,10,"Grillade Lafayette, 171 Rue La Fayette - 75010 Paris 10",https://www.kebab-frites.com/kebab/grillade-lafayette-paris-10.html,48.879964,2.359134,652998.865,6864629.010
+AlloKeb,2,"AlloKeb, 320 rue saint martin - 75002 Paris 02",https://www.kebab-frites.com/kebab/allokeb-paris-02.html,48.870377,2.340413,651616.992,6863574.309
+Saray,10,"Saray, 75 rue du Faubourg Saint  Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/saray-paris-10.html,48.872943,2.354336,652640.603,6863851.189
+Restaurant Paris Istanbul,18,6 rue caulaincourt - 75018 Paris 18,https://www.kebab-frites.com/kebab/restaurant-paris-istanbul-paris-18.html,48.8850347,2.3303656,650893.820,6865210.348
+Savour,15,"Savour, 46 rue Dutot - 75015 Paris 15",https://www.kebab-frites.com/kebab/savour-paris-15.html,48.839363,2.309327,649306.619,6860145.340
+Ersar,19,"Ersar, 197 rue de crimée - 75019 Paris 19",https://www.kebab-frites.com/kebab/ersar-paris-19.html,48.89130500,2.37584300,654234.246,6865880.250
+Candirdagi,10,"Candirdagi, 22 rue mazagran - 75010 Paris 10",https://www.kebab-frites.com/kebab/candirdagi-paris-10.html,48.871031,2.352267,652487.102,6863639.831
+Restaurant Marmara,17,"Restaurant Marmara, 137 Avenue de Saint-Ouen - 75017 Paris 17",https://www.kebab-frites.com/kebab/restaurant-marmara-paris-17.html,48.896508,2.328435,650763.098,6866487.317
+L'Anatolie,18,"L'Anatolie, 57 rue caulaincourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/lanatolie-paris-18.html,48.889513,2.334979,651236.320,6865705.449
+Ali Baba,17,"Ali Baba, Avenue Saint Ouen - 75017 Paris 17",https://www.kebab-frites.com/kebab/ali-baba-paris-17.html,48.892588,2.327117,650662.754,6866052.256
+Hot Snack,13,"Hot Snack, 21 Avenue De La Porte De Vitry - 75013 Paris 13",https://www.kebab-frites.com/kebab/hot-snack-paris-13.html,48.822554,2.378128,654341.582,6858234.394
+Le Giros,18,"Le Giros, 57 Rue Lamarck - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-giros-paris-18.html,48.890221,2.336269,651331.570,6865783.379
+Papy Youda,19,"Papy Youda, 1 Bis Rue Goubet - 75019 Paris 19",https://www.kebab-frites.com/kebab/papy-youda-paris-19.html,48.884288,2.390052,655270.060,6865091.854
+House Burger,9,"House Burger, 90 Rue de Rochechouart - 75009 Paris 09",https://www.kebab-frites.com/kebab/house-burger-paris-09.html,48.882841,2.346933,652106.709,6864956.246
+Besiktas,10,"Besiktas, 25 rue du faubourg du temple - 75010 Paris 10",https://www.kebab-frites.com/kebab/besiktas-paris-10.html,48.868581,2.366546,653532.295,6863358.911
+Le Best One,19,"Le Best One, 20 Rue Barbanegre - 75019 Paris 19",https://www.kebab-frites.com/kebab/le-best-one-paris-19.html,48.893525,2.384822,654894.533,6866121.937
+Ladess,17,"Ladess, 1 Boulevard Bertier - 75017 Paris 17",https://www.kebab-frites.com/kebab/ladess-paris-17-1.html,48.894127,2.313621,649674.710,6866231.902
+Sandwicherie rapide Alésia,14,"Sandwicherie rapide Alésia, 155 rue d'Alésia - 75014 Paris 14",https://www.kebab-frites.com/kebab/sandwicherie-rapide-alesia-paris-14.html,48.830343,2.319441,650040.294,6859135.972
+Anamour Paris,19,3 Avenue Jean Jaures - 75019 Paris 19,https://www.kebab-frites.com/kebab/anamour-paris-paris-19.html,48.8831969,2.3712268,653888.595,6864981.359
+Chez Momo 63,14,"Chez Momo 63, 4 rue Wilfrid Laurier - 75014 Paris 14",https://www.kebab-frites.com/kebab/chez-momo-63-paris-14.html,48.826948,2.306585,649093.247,6858766.700
+Opéra Food,2,"Opéra Food, 1 Rue Daunou - 75002 Paris 02",https://www.kebab-frites.com/kebab/opera-food-paris-02.html,48.869106,2.332441,651031.038,6863437.898
+Le Shem's,9,"Le Shem's, 9 rue Pierre Fontaine - 75009 Paris 09",https://www.kebab-frites.com/kebab/le-shems-paris-09.html,48.881105,2.334446,651189.357,6864770.860
+Restauration Delices,10,"Restauration Delices, 10 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/restauration-delices-paris-10.html,48.870209,2.353021,652541.659,6863547.977
+Mevlana,18,"Mevlana, 72 rue marx dormoy - 75018 Paris 18",https://www.kebab-frites.com/kebab/mevlana-paris-18.html,48.889368,2.360101,653078.257,6865674.105
+La Capadocce,8,"La Capadocce, 29 rue du rocher - 75008 Paris 08",https://www.kebab-frites.com/kebab/la-capadocce-paris-08.html,48.876981,2.321395,650228.301,6864320.446
+Le Chicken,20,"Le Chicken, 74 Rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/le-chicken-paris-20.html,48.852317,2.404476,656300.998,6861528.828
+A La Moana,15,"A La Moana, 32 rue de Vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/a-la-moana-paris-15.html,48.840042,2.303681,648892.895,6860224.477
+Grill Bosphore,9,"Grill Bosphore, 1 Rue de Budapest - 75009 Paris 09",https://www.kebab-frites.com/kebab/grill-bosphore-paris-09.html,48.875958,2.327625,650684.255,6864202.787
+Planet Food,14,"Planet Food, 7 rue du départ - 75014 Paris 14",https://www.kebab-frites.com/kebab/planet-food-paris-14-1.html,48.842894,2.32402,650388.377,6860528.618
+Chicken Salon,15,"Chicken Salon, 401 Rue de Vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/chicken-salon-paris-15.html,48.833222,2.289369,647835.654,6859475.530
+Buffet Sayan,10,"Buffet Sayan, 62 Rue du Château d'Eau - 75010 Paris 10",https://www.kebab-frites.com/kebab/buffet-sayan-paris-10.html,48.872203,2.356256,652780.761,6863767.756
+Restaurant Nassim,10,"Restaurant Nassim, 76 rue du Faubourg Poissonnière - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-nassim-paris-10.html,48.876377,2.348609,652223.688,6864236.476
+King Sandwich,3,"King Sandwich, 13 place de la République - 75003 Paris 03",https://www.kebab-frites.com/kebab/king-sandwich-paris-03.html,48.866971,2.363494,653306.974,6863181.692
+Linné Express,5,"Linné Express, 13 rue Linné - 75005 Paris 05",https://www.kebab-frites.com/kebab/linne-express-paris-05.html,48.844532,2.354599,652634.073,6860691.969
+Le Maghreb,18,"Le Maghreb, 124 boulevard de la Chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-maghreb-paris-18.html,48.883979,2.350097,652339.780,6865080.870
+Doner's,12,"Doner's, 240 Rue De Charenton - 75012 Paris 12",https://www.kebab-frites.com/kebab/doners-paris-12.html,48.838484,2.389624,655199.303,6859999.051
+Snack Libanais Elysees Chtoura,8,"Snack Libanais Elysees Chtoura, 66 Avenue des Champs Elysées - 75008 Paris 08",https://www.kebab-frites.com/kebab/snack-libanais-elysees-chtoura-paris-08.html,48.870856,2.305367,649046.779,6863649.614
+Mi va mi,4,"Mi va mi, 27 rue des ecouffes - 75004 Paris 04",https://www.kebab-frites.com/kebab/mi-va-mi-paris-04.html,48.857309,2.358956,652965.359,6862110.049
+Restaurant Enginar,19,"Restaurant Enginar, 153 rue De Crimée - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-enginar-paris-19.html,48.887701,2.380055,654539.934,6865477.071
+Royal Délices,14,"Royal Délices, 3 rue du faubourg Saint-Jacques - 75014 Paris 14",https://www.kebab-frites.com/kebab/royal-delices-paris-14.html,48.838547,2.339586,651526.729,6860035.609
+Vitamin,20,"Vitamin, 8 rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/vitamin-paris-20.html,48.851427,2.399455,655931.816,6861432.658
+Délices d'Orléans,14,"Délices d'Orléans, 128 boulevard Brune - 75014 Paris 14",https://www.kebab-frites.com/kebab/delices-dorleans-paris-14.html,48.823488,2.323454,650328.350,6858371.247
+Planet Food,14,"Planet Food, 138 Avenue Général Leclerc - 75014 Paris 14",https://www.kebab-frites.com/kebab/planet-food-paris-14.html,48.82366,2.325409,650472.045,6858389.144
+Le soleil de Marrakech,9,"Le soleil de Marrakech, 48 Boulevard de Clichy - 75009 Paris 09",https://www.kebab-frites.com/kebab/le-soleil-de-marrakech-paris-09.html,48.882359,2.33667,651353.629,6864908.924
+Pam Pam Istanbul,18,"Pam Pam Istanbul, 42 rue ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/pam-pam-istanbul-paris-18.html,48.89157,2.350094,652346.507,6865924.949
+Paristanbul,2,37 rue Petits Carreaux - 75002 Paris 02,https://www.kebab-frites.com/kebab/paristanbul-paris-02.html,48.867695,2.347273,652117.721,6863271.909
+Le Daily Syrien,10,"Le Daily Syrien, 55 rue du Faubourg-Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-daily-syrien-paris-10.html,48.871899,2.353715,652594.104,6863735.476
+Orient express,12,"Orient express, 39 Rue de reuilly - 75012 Paris 12",https://www.kebab-frites.com/kebab/orient-express-paris-12.html,48.846609,2.387625,655059.589,6860903.608
+Food Express,14,"Food Express, 29 rue Daguerre - 75014 Paris 14",https://www.kebab-frites.com/kebab/food-express-paris-14.html,48.834237,2.328689,650722.853,6859563.129
+Le Med,17,"Le Med, 145 avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/le-med-paris-17.html,48.891194,2.318881,650057.551,6865902.429
+Délices Maubeuge,9,"Délices Maubeuge, 2 rue condorcet - 75009 Paris 09",https://www.kebab-frites.com/kebab/delices-maubeuge-paris-09.html,48.879597,2.348869,652245.710,6864594.361
+Coups de Coeur,20,"Coups de Coeur, 1 rue du Retrait - 75020 Paris 20",https://www.kebab-frites.com/kebab/coups-de-coeur-paris-20.html,48.867648,2.396116,655700.598,6863238.173
+One Way,20,"One Way, 53 rue saint fargeau - 75020 Paris 20",https://www.kebab-frites.com/kebab/one-way-paris-20.html,48.87196700,2.40507400,656361.340,6863713.428
+Restaurant Newroz,5,"Restaurant Newroz, 24 Rue Saint-Séverin - 75005 Paris 05",https://www.kebab-frites.com/kebab/restaurant-newroz-paris-05.html,48.852463,2.345207,651952.123,6861579.494
+Chez Afnan,20,"Chez Afnan, 5 avenue gambetta - 75020 Paris 20",https://www.kebab-frites.com/kebab/chez-afnan-paris-20.html,48.863417,2.389176,655187.868,6862771.633
+Hak Yolu Restaurant,3,"Hak Yolu Restaurant, 13 Boulevard Saint-martin - 75003 Paris 03",https://www.kebab-frites.com/kebab/hak-yolu-restaurant-paris-03.html,48.868035,2.36072,653104.440,6863301.644
+Anatolie,10,"Anatolie, 74 rue du Faubourg Poissonnière - 75010 Paris 10",https://www.kebab-frites.com/kebab/anatolie-paris-10.html,48.876296,2.348564,652220.313,6864227.496
+Le Plaisir indien,10,"Le Plaisir indien, 19 Rue du faubourg du temple - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-plaisir-indien-paris-10.html,48.868464,2.36614,653502.409,6863346.141
+Galatasaray,19,"Galatasaray, Avenue jean jaures - 75019 Paris 19",https://www.kebab-frites.com/kebab/galatasaray-paris-19.html,48.886138,2.382807,654740.373,6865301.693
+Grillé,2,"Grillé, 15 Rue Saint-augustin - 75002 Paris 02",https://www.kebab-frites.com/kebab/grille-paris-02.html,48.86883,2.336529,651330.649,6863404.681
+Grill Urfa,17,"Grill Urfa, 104 avenue de clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/grill-urfa-paris-17.html,48.889571,2.322213,650300.311,6865719.858
+La cappadoce,11,"La cappadoce, 75 Rue de la roquette - 75011 Paris 11",https://www.kebab-frites.com/kebab/la-cappadoce-paris-11.html,48.8565055,2.3774238,654319.645,6862009.864
+Kifak,18,"Kifak, 87 rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/kifak-paris-18.html,48.8917763,2.3477280,652173.217,6865949.319
+Le buffet cristal,10,"Le buffet cristal, Rue de Mazagran - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-buffet-cristal-paris-10.html,48.870645,2.351665,652442.592,6863597.273
+Le 60,18,"Le 60, 60 rue du Ruisseau - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-60-paris-18.html,48.894513,2.340745,651663.753,6866257.878
+Istanbul,15,"Istanbul, 159 rue saint charles - 75015 Paris 15",https://www.kebab-frites.com/kebab/istanbul-paris-15.html,48.842324,2.281947,647300.055,6860492.497
+L'Oasis Du Nord,10,"L'Oasis Du Nord, 11 rue de Dunkerque - 75010 Paris 10",https://www.kebab-frites.com/kebab/loasis-du-nord-paris-10.html,48.879507,2.356631,652814.884,6864579.687
+Kebab Libanais Pigalle,9,"Kebab Libanais Pigalle, 54 Boulevard de Clichy - 75009 Paris 09",https://www.kebab-frites.com/kebab/kebab-libanais-pigalle-paris-09.html,48.882359,2.33667,651353.629,6864908.924
+Babatonguz,9,"Babatonguz, 12 Rue fontaine - 75009 Paris 09",https://www.kebab-frites.com/kebab/babatonguz-paris-09.html,48.8811,2.334666,651205.487,6864770.168
+Nabab Kebab,1,"Nabab Kebab, 72 rue de Rambuteau - 75001 Paris 01",https://www.kebab-frites.com/kebab/nabab-kebab-paris-01.html,48.862135,2.349831,652300.274,6862652.133
+Sandwicherie Grec,19,"Sandwicherie Grec, Place des fêtes - 75019 Paris 19",https://www.kebab-frites.com/kebab/sandwicherie-grec-paris-19.html,48.877434,2.393089,655486.913,6864328.014
+Planet Istambul,10,"Planet Istambul, Rue du faubourd du temple - 75010 Paris 10",https://www.kebab-frites.com/kebab/planet-istambul-paris-10.html,48.869803,2.370121,653795.621,6863492.691
+Kebab Rayé,13,"Kebab Rayé, 3 quai penhard et levassor - 75013 Paris 13",https://www.kebab-frites.com/kebab/kebab-raye-paris-13.html,48.827392,2.385253,654868.883,6858768.228
+Traiteur Grec,15,"Traiteur Grec, 93 rue Lecourbe - 75015 Paris 15",https://www.kebab-frites.com/kebab/traiteur-grec-paris-15.html,48.842882,2.303966,648916.596,6860540.070
+Délices de la Goutte,18,"Délices de la Goutte, 40 rue de la Goutte d'Or - 75018 Paris 18",https://www.kebab-frites.com/kebab/delices-de-la-goutte-paris-18.html,48.885119,2.351433,652438.794,6865206.826
+Restaurant Mula,11,"Restaurant Mula, 17 Boulevard de Belleville - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-mula-paris-11.html,48.868095,2.381441,654624.488,6863296.209
+La Centrale Bastille,11,"La Centrale Bastille, 16 rue de la roquette - 75011 Paris 11",https://www.kebab-frites.com/kebab/la-centrale-bastille-paris-11.html,48.853745,2.370883,653837.290,6861706.724
+Nabab Kebab,9,"Nabab Kebab, 17 Boulevard Montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/nabab-kebab-paris-09.html,48.871839,2.341972,651732.703,6863735.918
+Restaurant Akdeniz,19,"Restaurant Akdeniz, 64 avenue de Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-akdeniz-paris-19.html,48.888473,2.374452,654129.759,6865566.154
+L'Orchidée,17,"L'Orchidée, 56 rue des Dames - 75017 Paris 17",https://www.kebab-frites.com/kebab/lorchidee-paris-17.html,48.883766,2.320973,650203.838,6865075.158
+O l'ami,15,"O l'ami, 30 boulevard de vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/o-lami-paris-15.html,48.841508,2.317805,649930.924,6860378.432
+Edessa,10,"Edessa, 255 Rue du Faubourg Saint Martin - 75010 Paris 10",https://www.kebab-frites.com/kebab/edessa-paris-10.html,48.883162,2.367479,653613.723,6864979.673
+Gobelins Fast,13,"Gobelins Fast, 20 rue Coypel - 75013 Paris 13",https://www.kebab-frites.com/kebab/gobelins-fast-paris-13.html,48.83329,2.354655,652627.966,6859441.942
+Sabrina,20,"Sabrina, 1 rue Pierre Bayle - 75020 Paris 20",https://www.kebab-frites.com/kebab/sabrina-paris-20.html,48.85857,2.390183,655257.581,6862232.114
+Kebab Dary Food,15,"Kebab Dary Food, 54 rue Fondary - 75015 Paris 15",https://www.kebab-frites.com/kebab/kebab-dary-food-paris-15.html,48.846835,2.296298,648357.758,6860984.590
+Tout Delice,18,"Tout Delice, 31 boulevard barbes - 75018 Paris 18",https://www.kebab-frites.com/kebab/tout-delice-paris-18.html,48.886886,2.349339,652286.857,6865404.569
+Restaurant Dost,17,"Restaurant Dost, 12 Avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/restaurant-dost-paris-17.html,48.890594,2.319921,650133.231,6865835.055
+Le Royal,5,"Le Royal, 6 Boulevard de l'Hôpital - 75005 Paris 05",https://www.kebab-frites.com/kebab/le-royal-paris-05.html,48.842744,2.363532,653288.048,6860487.839
+Buddy's Food,20,"Buddy's Food, 343 Rue Des Pyrénées - 75020 Paris 20",https://www.kebab-frites.com/kebab/buddys-food-paris-20.html,48.871806,2.391896,655394.596,6863702.890
+Le Riyad Parisien,18,59 rue Ordener - 75018 Paris 18,https://www.kebab-frites.com/kebab/le-riyad-parisien-paris-18.html,48.8911828,2.3511316,652422.233,6865881.268
+Le Bosphore,10,"Le Bosphore, 8 Rue du 8 mai 1945 - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-bosphore-paris-10.html,48.8761725,2.3573018,652861.062,6864208.512
+Restaurant Alim,11,"Restaurant Alim, 49 rue Oberkampf - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-alim-paris-11.html,48.864615,2.372031,653931.138,6862914.708
+Croq Etoile,17,"Croq Etoile, 3 rue des acacias - 75017 Paris 17",https://www.kebab-frites.com/kebab/croq-etoile-paris-17.html,48.876292,2.29,647925.033,6864264.081
+Restaurant Diren,17,"Restaurant Diren, 117 av de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/restaurant-diren-paris-17.html,48.889828,2.321249,650229.872,6865749.042
+La Médina,19,"La Médina, 199 rue de Crimée - 75019 Paris 19",https://www.kebab-frites.com/kebab/la-medina-paris-19.html,48.89141,2.375727,654225.832,6865891.993
+Délices d'Orient,20,"Délices d'Orient, 3 rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/delices-dorient-paris-20.html,48.851487,2.398821,655885.344,6861439.684
+Anood,15,"Anood, 144 rue Emile Zola - 75015 Paris 15",https://www.kebab-frites.com/kebab/anood-paris-15.html,48.846858,2.294099,648196.408,6860988.588
+Royal,14,"Royal, 30 rue du faubourg Saint Jacques - 75014 Paris 14",https://www.kebab-frites.com/kebab/royal-paris-14.html,48.836983,2.338343,651434.040,6859862.473
+Christeve,9,"Christeve, 4 rue faubourg Montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/christeve-paris-09.html,48.871738,2.343251,651826.424,6863723.907
+Pita Kabab,1,"Pita Kabab, 72 Rue Saint-Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/pita-kabab-paris-01.html,48.86173500,2.34924900,652257.210,6862608.008
+La Palmeraie,14,"La Palmeraie, 11 rue de la Gaité - 75014 Paris 14",https://www.kebab-frites.com/kebab/la-palmeraie-paris-14.html,48.840365,2.324242,650402.263,6860247.280
+Restaurant Sancak,18,"Restaurant Sancak, 93 Rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-sancak-paris-18.html,48.891901,2.347188,652133.738,6865963.512
+Bosphore,11,"Bosphore, 20 rue oberkampf - 75011 Paris 11",https://www.kebab-frites.com/kebab/bosphore-paris-11.html,48.863433,2.369522,653746.028,6862784.746
+Istanbul Grill Kebab,5,"Istanbul Grill Kebab, 94 Boulevard de Port-Royal - 75005 Paris 05",https://www.kebab-frites.com/kebab/istanbul-grill-kebab-paris-05.html,48.839516,2.337988,651410.345,6860144.334
+Chalet du Nord,10,"Chalet du Nord, 24 rue de Dunkerque - 75010 Paris 10",https://www.kebab-frites.com/kebab/chalet-du-nord-paris-10.html,48.880509,2.352923,652543.856,6864693.325
+Restaurant Doy,19,"Restaurant Doy, 102 boulevard de la Villette - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-doy-paris-19.html,48.876941,2.371858,653929.349,6864285.373
+Ephese,13,"Ephese, 44 rue de Tolbiac - 75013 Paris 13",https://www.kebab-frites.com/kebab/ephese-paris-13.html,48.827891,2.371549,653863.278,6858831.631
+Restaurant Efes,11,"Restaurant Efes, 25 Rue du Faubourg du Temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-efes-paris-11.html,48.869758,2.370686,653837.026,6863487.357
+Les Sandwichs Turcs,9,"Les Sandwichs Turcs, 88 Rue de Rochechouart - 75009 Paris 09",https://www.kebab-frites.com/kebab/les-sandwichs-turcs-paris-09.html,48.882728,2.346904,652104.478,6864943.699
+La capitale,19,"La capitale, 32 avenue de flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/la-capitale-paris-19.html,48.886295,2.371809,653934.030,6865325.510
+Le Rapid de Lyon,12,"Le Rapid de Lyon, 11 rue Emile Gilbert - 75012 Paris 12",https://www.kebab-frites.com/kebab/le-rapid-de-lyon-paris-12.html,48.846635,2.373048,653989.871,6860914.894
+Extra Doner,18,"Extra Doner, 69 boulevard barbes - 75018 Paris 18",https://www.kebab-frites.com/kebab/extra-doner-paris-18.html,48.8906486,2.3493609,652291.911,6865822.936
+MG Maison de Gyros,5,"MG Maison de Gyros, 8 Rue Xavier Privas - 75005 Paris 05",https://www.kebab-frites.com/kebab/mg-maison-de-gyros-paris-05.html,48.852944,2.345563,651978.688,6861632.761
+Nour,13,"Nour, 5 rue Françoise Dolto - 75013 Paris 13",https://www.kebab-frites.com/kebab/nour-paris-13.html,48.829225,2.382581,654674.318,6858973.568
+Sultan,11,"Sultan, 36 rue du faubourg du temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/sultan-paris-11.html,48.86902,2.368382,653667.364,6863406.646
+Kebab,16,"Kebab, 28 rue des belles feuilles - 75016 Paris 16",https://www.kebab-frites.com/kebab/kebab-paris-16.html,48.867177,2.281812,647315.282,6863255.997
+Amigo Arkadas,18,"Amigo Arkadas, 134 Avenue de Saint-ouen - 75018 Paris 18",https://www.kebab-frites.com/kebab/amigo-arkadas-paris-18.html,48.896063,2.328641,650777.780,6866437.707
+Saint Amat,18,"Saint Amat, 56 boulevard de clichy - 75018 Paris 18",https://www.kebab-frites.com/kebab/saint-amat-paris-18.html,48.883307,2.334973,651230.068,6865015.383
+Les Délices Du 16,16,"31 Boulevard Murat, 75016 Paris 16",https://www.kebab-frites.com/kebab/les-delices-du-16-paris-16.html,48.8449670,2.2575843,645514.822,6860802.904
+Le Topoly (Kiki Mimi),6,"Le Topoly (Kiki Mimi), 23 Rue St André des Arts - 75006 Paris 06",https://www.kebab-frites.com/kebab/le-topoly-kiki-mimi-paris-06.html,48.853259,2.342594,651761.126,6861669.595
+El Jawhara,18,"El Jawhara, 76 boulevard de Rochechouart - 75018 Paris 18",https://www.kebab-frites.com/kebab/el-jawhara-paris-18.html,48.882929,2.343371,651845.574,6864968.197
+Al Dar,16,"Al Dar, 93 Avenue Raymond Poincaré - 75016 Paris 16",https://www.kebab-frites.com/kebab/al-dar-paris-16.html,48.870611,2.284923,647546.950,6863635.759
+Le Saint Cyrille,15,"Le Saint Cyrille, 1 rue Desnouettes - 75015 Paris 15",https://www.kebab-frites.com/kebab/le-saint-cyrille-paris-15.html,48.836043,2.292979,648103.450,6859786.813
+Grill Burger,1,"Grill Burger, 20 rue saint denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/grill-burger-paris-01.html,48.85957900,2.34805700,652167.780,6862369.000
+Restaurant Maxim,20,"Restaurant Maxim, 13 rue de bagnolet - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-maxim-paris-20.html,48.856782,2.395525,655647.995,6862030.289
+Welcome to istanbul,5,"Welcome to istanbul, 4 rue du petit pont - 75005 Paris 05",https://www.kebab-frites.com/kebab/welcome-to-istanbul-paris-05.html,48.850442,2.352294,652470.303,6861350.489
+Les grillades du désert,2,"Les grillades du désert, 189 rue Saint-Denis - 75002 Paris 02",https://www.kebab-frites.com/kebab/les-grillades-du-desert-paris-02.html,48.866118,2.35075,652371.336,6863094.456
+BFC Chicken,20,"BFC Chicken, 316 Rue de Belleville - 75020 Paris 20",https://www.kebab-frites.com/kebab/bfc-chicken-paris-20.html,48.876681,2.405209,656375.191,6864237.520
+L'Orient Express,11,"L'Orient Express, 32 Rue du Faubourg du Temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/lorient-express-paris-11.html,48.868909,2.3681,653646.580,6863394.469
+Toqueville,16,"Toqueville, 128 avenue de malakoff - 75016 Paris 16",https://www.kebab-frites.com/kebab/toqueville-paris-16.html,48.874164,2.284369,647509.894,6864031.192
+Restaurant Lider,2,"Restaurant Lider, 3 rue de Clery - 75002 Paris 02",https://www.kebab-frites.com/kebab/restaurant-lider-paris-02.html,48.867466,2.344248,651895.609,6863248.285
+118,17,"118, 118 Avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/118-paris-17.html,48.89001,2.321452,650244.931,6865769.152
+Panini Jourdain,20,"Panini Jourdain, 6 rue levert - 75020 Paris 20",https://www.kebab-frites.com/kebab/panini-jourdain-paris-20.html,48.873468,2.390291,655278.296,6863888.601
+Kebab paradise,1,"Kebab paradise, 81 rue rambuteau - 75001 Paris 01",https://www.kebab-frites.com/kebab/kebab-paradise-paris-01.html,48.862176,2.349018,652240.667,6862657.183
+Planet Istanbul,11,"Planet Istanbul, 24 rue du faubourg du temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/planet-istanbul-paris-11.html,48.868465,2.366565,653533.585,6863346.002
+Maxi Grill,20,"Maxi Grill, 42 rue de Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/maxi-grill-paris-20.html,48.867921,2.386914,655025.812,6863273.731
+Restaurant Petit Istanbul,11,"Restaurant Petit Istanbul, 71 Rue Léon Frot - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-petit-istanbul-paris-11.html,48.857126,2.384972,654874.006,6862074.518
+Croq de la Glacière,13,"Croq de la Glacière, 123 rue de la Glacière - 75013 Paris 13",https://www.kebab-frites.com/kebab/croq-de-la-glaciere-paris-13.html,48.826929,2.342163,651705.110,6858742.239
+La porte St Denis,10,"La porte St Denis, 9 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/la-porte-st-denis-paris-10.html,48.8771197,2.3487446,652234.314,6864318.977
+Restaurant As,9,"Restaurant As, 55 Rue du Faubourg Poissonnière - 75009 Paris 09",https://www.kebab-frites.com/kebab/restaurant-as-paris-09.html,48.874757,2.347945,652173.500,6864056.745
+Le délice d'Istanbul,10,"Le délice d'Istanbul, 11 rue du 8 mai 1945 - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-delice-distanbul-paris-10.html,48.876191,2.357311,652861.754,6864210.564
+Restaurant Sancak,10,"Restaurant Sancak, 39 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-sancak-paris-10.html,48.8712741,2.3533066,652563.579,6863666.237
+Le Méditérranée,18,"Le Méditérranée, 80 boulevard Ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-mediterranee-paris-18.html,48.897151,2.345283,651998.901,6866548.442
+Pyrénées Kebab,19,"Pyrénées Kebab, 109 rue de Belleville - 75019 Paris 19",https://www.kebab-frites.com/kebab/pyrenees-kebab-paris-19.html,48.874699,2.386891,655029.976,6864027.411
+Restaurant des Princes,19,"Restaurant des Princes, 10 Avenue de Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-des-princes-paris-19.html,48.884824,2.369992,653799.485,6865163.005
+Doner Kebab Grill,18,"Doner Kebab Grill, 15 bis Rue de la Chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/doner-kebab-grill-paris-18.html,48.891411,2.359669,653048.423,6865901.533
+Sultan,1,"Sultan, 13 rue Saint Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/sultan-paris-01.html,48.85931800,2.34767700,652139.661,6862340.210
+Al Baraka,18,"Al Baraka, 13 Rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/al-baraka-paris-18.html,48.890206,2.357975,652923.125,6865768.552
+Le Royal Pasteur,15,"Le Royal Pasteur, 22 Boulevard Pasteur - 75015 Paris 15",https://www.kebab-frites.com/kebab/le-royal-pasteur-paris-15.html,48.842587,2.312414,649536.311,6860501.837
+Le Constantinois,14,"Le Constantinois, 54 rue de la santé - 75014 Paris 14",https://www.kebab-frites.com/kebab/le-constantinois-paris-14.html,48.831261,2.341131,651633.367,6859224.539
+Le Kervan,19,"Le Kervan, 64 boulevard de la villette - 75019 Paris 19",https://www.kebab-frites.com/kebab/le-kervan-paris-19.html,48.87514,2.373916,654078.701,6864083.915
+Restaurant Antalya,20,"Restaurant Antalya, 4 Place Martin Nadaud - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-antalya-paris-20.html,48.865145,2.394764,655599.287,6862960.617
+L'as du fallafel,4,"L'as du fallafel, 34 rue des rosiers - 75004 Paris 04",https://www.kebab-frites.com/kebab/las-du-fallafel-paris-04.html,48.857413,2.359064,652973.377,6862121.548
+Mélodie,9,"Mélodie, 22 rue d'Amsterdam - 75009 Paris 09",https://www.kebab-frites.com/kebab/melodie-paris-09.html,48.876794,2.326994,650638.767,6864296.138
+Restaurant Dilan,2,"Restaurant Dilan, 11 Rue Mandar - 75002 Paris 02",https://www.kebab-frites.com/kebab/restaurant-dilan-paris-02.html,48.865693,2.345252,651967.623,6863050.530
+Coriandre,7,"Coriandre, 3 Rue Perronet - 75007 Paris 07",https://www.kebab-frites.com/kebab/coriandre-paris-07.html,48.855183,2.330467,650873.111,6861891.003
+Rihab,19,"Rihab, 50 Boulevard Serurier - 75019 Paris 19",https://www.kebab-frites.com/kebab/rihab-paris-19.html,48.879566,2.399991,655994.922,6864561.210
+Restaurant du Parc,15,"Restaurant du Parc, 3 avenue de la Porte de la Plaine - 75015 Paris 15",https://www.kebab-frites.com/kebab/restaurant-du-parc-paris-15.html,48.8305373,2.2925380,648065.595,6859174.934
+Gulshan,18,"Gulshan, 30 rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/gulshan-paris-18.html,48.891361,2.351225,652429.244,6865901.027
+Le Babylone,11,"Le Babylone, 21 rue Daval - 75011 Paris 11",https://www.kebab-frites.com/kebab/le-babylone-paris-11.html,48.854656,2.371133,653856.441,6861807.873
+Restaurant Rosa,12,"Restaurant Rosa, 10 Place du Colonel Bourgoin - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-rosa-paris-12.html,48.844585,2.383474,654753.208,6860680.928
+L'Oriental,19,"L'Oriental, 58 rue de l'Ourcq - 75019 Paris 19",https://www.kebab-frites.com/kebab/loriental-paris-19.html,48.89226,2.379389,654495.082,6865984.392
+Chez Poundé,10,"Chez Poundé, 114 rue du faubourg poissonière - 75010 Paris 10",https://www.kebab-frites.com/kebab/chez-pounde-paris-10.html,48.879304,2.34948,652290.251,6864561.412
+Delhadje,19,"Delhadje, 95 rue Compans - 75019 Paris 19",https://www.kebab-frites.com/kebab/delhadje-paris-19.html,48.88091,2.389148,655200.861,6864716.753
+Crous Express,16,"Crous Express, Place du Maréchal de Lattre de Tassigny - 75016 Paris 16",https://www.kebab-frites.com/kebab/crous-express-paris-16.html,48.871747,2.274733,646800.664,6863768.890
+Restaurant Seç,18,"Restaurant Seç, 42 rue des Cloys - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-sec-paris-18.html,48.893214,2.337673,651437.309,6866115.320
+Restaurant Royal Kebab,20,"Restaurant Royal Kebab, 144 rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-royal-kebab-paris-20.html,48.853263,2.409776,656690.686,6861631.095
+So Fresh,2,"So Fresh, 27 rue saint marc - 75002 Paris 02",https://www.kebab-frites.com/kebab/so-fresh-paris-02.html,48.870472,2.339546,651553.485,6863585.404
+Chicken Corner,18,"Chicken Corner, 38 rue du ruisseau - 75018 Paris 18",https://www.kebab-frites.com/kebab/chicken-corner-paris-18.html,48.893439,2.340415,651638.560,6866138.656
+Izmir,15,"Izmir, 10 rue Miollis - 75015 Paris 15",https://www.kebab-frites.com/kebab/izmir-paris-15.html,48.846255,2.305227,649012.441,6860914.297
+Restaurant Kemer,10,"Restaurant Kemer, 42 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-kemer-paris-10.html,48.8713754,2.3536658,652590.018,6863677.285
+Les Jardins d'Istanbul,20,"Les Jardins d'Istanbul, 294 rue des Pyrénées - 75020 Paris 20",https://www.kebab-frites.com/kebab/les-jardins-distanbul-paris-20.html,48.871637,2.392509,655439.415,6863683.752
+Mistral du nord,10,"Mistral du nord, 1 boulevard de Denain - 75010 Paris 10",https://www.kebab-frites.com/kebab/mistral-du-nord-paris-10.html,48.879025,2.354031,652623.764,6864527.649
+Friterie des abbesses,18,"Friterie des abbesses, 63 Rue des Abbesses - 75018 Paris 18",https://www.kebab-frites.com/kebab/friterie-des-abbesses-paris-18.html,48.885654,2.335074,651239.672,6865276.292
+Chez Rosa,13,"Chez Rosa, 101 Boulevard De L'hôpital - 75013 Paris 13",https://www.kebab-frites.com/kebab/chez-rosa-paris-13.html,48.837231,2.360123,653032.891,6859876.873
+Snack 2000,10,"Snack 2000, 165 avenue Jean Jaurès - 75010 Paris 10",https://www.kebab-frites.com/kebab/snack-2000-paris-10.html,48.87641,2.362088,653212.314,6864232.074
+Les Diamantaires,9,"Les Diamantaires, 60 rue la fayette - 75009 Paris 09",https://www.kebab-frites.com/kebab/les-diamantaires-paris-09.html,48.875446,2.342687,651788.486,6864136.554
+Restaurant Kalim,12,"Restaurant Kalim, 268 Rue du Faubourg Saint-Antoine - 75012 Paris 12",https://www.kebab-frites.com/kebab/restaurant-kalim-paris-12.html,48.848565,2.392752,655437.510,6861118.191
+Ariana,19,"Ariana, 100 avenue de Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/ariana-paris-19.html,48.890811,2.377396,654347.682,6865824.421
+Istambul,1,"Istambul, 19 rue Saint Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/istambul-paris-01.html,48.85945800,2.34776300,652146.099,6862355.724
+Restaurant Ronay,11,"Restaurant Ronay, 115 Rue du Chemin Vert - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-ronay-paris-11.html,48.861566,2.382336,654684.462,6862569.720
+Le Penalty,14,"Le Penalty, 132 rue de la Tombe Issoire - 75014 Paris 14",https://www.kebab-frites.com/kebab/le-penalty-paris-14.html,48.82452,2.331064,650888.031,6858481.233
+Mega Kebap,20,"Mega Kebap, 94 rue de Belleville - 75020 Paris 20",https://www.kebab-frites.com/kebab/mega-kebap-paris-20.html,48.875394,2.391695,655382.926,6864101.965
+L'Oasis Jussieu,5,"L'Oasis Jussieu, 9 rue des boulangers - 75005 Paris 05",https://www.kebab-frites.com/kebab/loasis-jussieu-paris-05.html,48.845829,2.353954,652587.917,6860836.569
+Le Carthage,10,"Le Carthage, 22 rue Juliette Dodu - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-carthage-paris-10.html,48.875974,2.36878,653702.741,6864179.649
+Kemer,9,"Kemer, 53 rue des martyrs - 75009 Paris 09",https://www.kebab-frites.com/kebab/kemer-paris-09.html,48.880301,2.340241,651613.596,6864677.894
+Restaurant Redo,18,"Restaurant Redo, 48 Avenue de Saint Ouen - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-redo-paris-18.html,48.890453,2.326753,650634.041,6865815.084
+Restaurant Titanic,18,"Restaurant Titanic, 42 Rue Marx Dormoy - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-titanic-paris-18.html,48.887209,2.359984,653067.732,6865434.105
+Le Chikanos,20,"Le Chikanos, 6 rue Henri Dubouillon - 75020 Paris 20",https://www.kebab-frites.com/kebab/le-chikanos-paris-20.html,48.872882,2.404527,656321.985,6863815.473
+Restaurant GAP,18,"Restaurant GAP, rue de Clignancourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-gap-paris-18.html,48.889505,2.348277,652211.386,6865696.430
+Bella Vita,18,"Bella Vita, 3 rue Eugène Sue - 75018 Paris 18",https://www.kebab-frites.com/kebab/bella-vita-paris-18.html,48.890943,2.345927,652040.397,6865857.752
+Restaurant Gap,17,"Restaurant Gap, 169 Avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/restaurant-gap-paris-17.html,48.892393,2.316801,649906.194,6866037.068
+Rococo,10,"Rococo, 4 rue du Faubourg Saint Martin - 75010 Paris 10",https://www.kebab-frites.com/kebab/rococo-paris-10.html,48.869345,2.355902,652752.203,6863450.179
+Délices d'Antalya,19,"Délices d'Antalya, 190 Boulevard de la Villette - 75019 Paris 19",https://www.kebab-frites.com/kebab/delices-dantalya-paris-19.html,48.881854,2.370539,653836.965,6864832.438
+Restaurant çamoluk,20,"Restaurant çamoluk, Place Edith Piaf - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-camoluk-paris-20.html,48.8649135,2.4051332,656359.7735022707,6862929.0953436885
+Café des Arts,6,"Café des Arts, 31 Rue Saint André des Arts - 75006 Paris 06",https://www.kebab-frites.com/kebab/cafe-des-arts-paris-06.html,48.853297,2.342004,651717.869,6861674.181
+Planete Sandwichs,14,"Planete Sandwichs, 14 boulevard Brune - 75014 Paris 14",https://www.kebab-frites.com/kebab/planete-sandwichs-paris-14.html,48.827313,2.30621,649066.074,6858807.526
+Al Haeche,19,"Al Haeche, 26 Rue Manin - 75019 Paris 19",https://www.kebab-frites.com/kebab/al-haeche-paris-19.html,48.883243,2.388673,655168.034,6864976.438
+Aux délices d'Orient,13,"Aux délices d'Orient, 65 boulevard Kellermann - 75013 Paris 13",https://www.kebab-frites.com/kebab/aux-delices-dorient-paris-13.html,48.820547,2.350003,652274.827,6858027.871
+Aspendos,11,"Aspendos, 67 Rue de la Roquette - 75011 Paris 11",https://www.kebab-frites.com/kebab/aspendos-paris-11.html,48.856383,2.376555,654255.792,6861996.746
+Comme chez maman,17,"Comme chez maman, 138 rue cardinet - 75017 Paris 17",https://www.kebab-frites.com/kebab/comme-chez-maman-paris-17.html,48.886911,2.313626,649668.102,6865429.521
+Restaurant Pera,8,"Restaurant Pera, 15 rue Castellane - 75008 Paris 08",https://www.kebab-frites.com/kebab/restaurant-pera-paris-08.html,48.872384,2.324559,650455.983,6863807.303
+Mac Doner,16,"Mac Doner, 64 rue de la Pompe - 75016 Paris 16",https://www.kebab-frites.com/kebab/mac-doner-paris-16.html,48.862582,2.276302,646906.409,6862748.764
+Le Paname,18,"Le Paname, 23 Rue de la Chapelle - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-paname-paris-18.html,48.891976,2.359678,653049.592,6865964.352
+Kebab House,11,"Kebab House, 122 rue oberkampf - 75011 Paris 11",https://www.kebab-frites.com/kebab/kebab-house-paris-11.html,48.866147,2.379767,654499.990,6863080.569
+Bip Burger,18,"Bip Burger, 74 boulevard de Rochechouart - 75018 Paris 18",https://www.kebab-frites.com/kebab/bip-burger-paris-18.html,48.882957,2.34351,651855.793,6864971.226
+Croq' Time,20,"Croq' Time, 220 rue des Pyrennées - 75020 Paris 20",https://www.kebab-frites.com/kebab/croq-time-paris-20.html,48.86634,2.397522,655802.627,6863091.945
+Omer Kebab,3,"Omer Kebab, 22 Rue Des Francs Bourgeois - 75003 Paris 03",https://www.kebab-frites.com/kebab/omer-kebab-paris-03.html,48.857551,2.361164,653127.579,6862135.644
+Station Jaurès,19,"Station Jaurès, 74 Boulevard Jean Jaurès - 75019 Paris 19",https://www.kebab-frites.com/kebab/station-jaures-paris-19.html,48.88459,2.377714,654365.548,6865132.495
+Pacha Kebab,9,"Pacha Kebab, 19 Rue d'Amsterdam - 75009 Paris 09",https://www.kebab-frites.com/kebab/pacha-kebab-paris-09.html,48.879354,2.327098,650648.821,6864580.728
+Le cap de Bercy,12,"Le cap de Bercy, 38 boulevard de Bercy - 75012 Paris 12",https://www.kebab-frites.com/kebab/le-cap-de-bercy-paris-12.html,48.840106,2.380609,654539.044,6860184.553
+Délices de Reuilly,12,"Délices de Reuilly, 89 rue de Reuilly - 75012 Paris 12",https://www.kebab-frites.com/kebab/delices-de-reuilly-paris-12.html,48.844542,2.390047,655235.554,6860672.401
+Le Cedre,5,"Le Cedre, 6 Rue Mouffetard - 75005 Paris 05",https://www.kebab-frites.com/kebab/le-cedre-paris-05.html,48.844729,2.349129,652232.819,6860717.168
+Batikent,20,"Batikent, 23 rue de Bagnolet - 75020 Paris 20",https://www.kebab-frites.com/kebab/batikent-paris-20.html,48.856835,2.396147,655693.677,6862035.833
+Délices des Halles,1,"Délices des Halles, 107 Rue Saint-Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/delices-des-halles-paris-01.html,48.86259700,2.34946700,652273.993,6862703.724
+Nemrut,18,"Nemrut, 57 boulevard Ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/nemrut-paris-18.html,48.896158,2.345616,652022.400,6866437.823
+Hisar,17,"Hisar, 18 rue Cardinet - 75017 Paris 17",https://www.kebab-frites.com/kebab/hisar-paris-17.html,48.881625,2.302627,648856.374,6864848.819
+Marmara Restaurant,10,"Marmara Restaurant, 3 rue des Petites Ecuries - 75010 Paris 10",https://www.kebab-frites.com/kebab/marmara-restaurant-paris-10.html,48.872875,2.353961,652613.036,6863843.852
+Frites d'Or,11,"Frites d'Or, 154 Boulevard de Ménilmontant - 75011 Paris 11",https://www.kebab-frites.com/kebab/frites-dor-paris-11.html,48.863235,2.386752,655009.881,6862752.775
+Croc Time,19,"Croc Time, 73 Rue De Belleville - 75019 Paris 19",https://www.kebab-frites.com/kebab/croc-time-paris-19.html,48.873584,2.383326,654767.529,6863905.466
+Derya,10,"Derya, 16 rue Faubourg Saint Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/derya-paris-10.html,48.87054,2.35319,652554.357,6863584.680
+Caspienne Food,3,"Caspienne Food, 53  Rue Des Gravilliers - 75003 Paris 03",https://www.kebab-frites.com/kebab/caspienne-food-paris-03.html,48.864292,2.354963,652678.734,6862888.886
+Le Fleurus,14,"Le Fleurus, 10 Boulevard Jourdan - 75014 Paris 14",https://www.kebab-frites.com/kebab/le-fleurus-paris-14.html,48.819772,2.343031,651762.212,6857945.937
+Restaurant Ephese,18,"Restaurant Ephese, 58 Rue Doudeauville - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-ephese-paris-18.html,48.888519,2.353168,652569.120,6865583.843
+L'Afghanistan,11,"L'Afghanistan, 48 rue Saint Maur - 75011 Paris 11",https://www.kebab-frites.com/kebab/lafghanistan-paris-11.html,48.862297,2.380114,654522.084,6862652.279
+Royal Express,5,"Royal Express, 21 Rue Berthollet - 75005 Paris 05",https://www.kebab-frites.com/kebab/royal-express-paris-05.html,48.83866,2.345793,651982.406,6860044.381
+Scarfood,9,"Scarfood, 28 rue pierre fontaine - 75009 Paris 09",https://www.kebab-frites.com/kebab/scarfood-paris-09.html,48.882316,2.3337,651135.784,6864905.977
+Chez Karim - Resto grec plat algérien,18,"Chez Karim - Resto grec plat algérien, 94 Boulevard Barbès - 75018 Paris 18",https://www.kebab-frites.com/kebab/chez-karim-resto-grec-plat-algerien-paris-18.html,48.891142,2.349831,652326.832,6865877.516
+Restaurant Evan,2,"Restaurant Evan, 183 Rue Saint-Denis - 75002 Paris 02",https://www.kebab-frites.com/kebab/restaurant-evan-paris-02.html,48.865861,2.350594,652359.658,6863065.974
+Oasis Géode,19,"Oasis Géode, 23 avenue Corentin Cariou - 75019 Paris 19",https://www.kebab-frites.com/kebab/oasis-geode-paris-19.html,48.896903,2.384401,654866.593,6866497.796
+Fata Morgana,8,"Fata Morgana, 23 Rue Rocher - 75008 Paris 08",https://www.kebab-frites.com/kebab/fata-morgana-paris-08.html,48.876519,2.32197,650270.031,6864268.712
+Miami,20,"Miami, 14 rue de Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/miami-paris-20.html,48.867313,2.384438,654843.656,6863207.539
+Sandwicherie Grec,15,"Sandwicherie Grec, 67 rue Brancion - 75015 Paris 15",https://www.kebab-frites.com/kebab/sandwicherie-grec-paris-15.html,48.832442,2.303361,648861.954,6859379.650
+Chez Ebru,18,"Chez Ebru, 54 Rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/chez-ebru-paris-18.html,48.89193,2.348142,652203.713,6865966.158
+Grecs-Pizzas Charenton,12,"Grecs-Pizzas Charenton, 152 Rue de Charenton - 75012 Paris 12",https://www.kebab-frites.com/kebab/grecs-pizzas-charenton-paris-12.html,48.845148,2.381306,654594.593,6860744.773
+Restaurant Anatolie,19,"Restaurant Anatolie, 52 Avenue de flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-anatolie-paris-19.html,48.887499,2.37328,654042.961,6865458.531
+Zarma,9,"Zarma, 64 Rue Jean-Baptiste Pigalle - 75009 Paris 09",https://www.kebab-frites.com/kebab/zarma-paris-09.html,48.881691,2.336922,651371.486,6864834.492
+Resto Delice,13,"Resto Delice, Place de l'Abbé Georges Hénocque - 75013 Paris 13",https://www.kebab-frites.com/kebab/resto-delice-paris-13.html,48.823839,2.353345,652523.201,6858391.887
+Fast food Istanbul,12,"Fast food Istanbul, 39 rue de lyon - 75012 Paris 12",https://www.kebab-frites.com/kebab/fast-food-istanbul-paris-12.html,48.848685,2.370892,653833.468,6861144.093
+Mini Bouffe,12,"Mini Bouffe, 46 boulevard Diderot - 75012 Paris 12",https://www.kebab-frites.com/kebab/mini-bouffe-paris-12.html,48.84626,2.378612,654397.860,6860869.969
+Chez Les Deux Amis,11,"Chez Les Deux Amis, 104 Rue De La Roquette - 75011 Paris 11",https://www.kebab-frites.com/kebab/chez-les-deux-amis-paris-11.html,48.856606,2.377593,654332.147,6862020.941
+Euro Kebab,9,"Euro Kebab, 75 Rue de Rochechouart - 75009 Paris 09",https://www.kebab-frites.com/kebab/euro-kebab-paris-09.html,48.8815,2.346427,652068.367,6864807.442
+Marmar,17,"Marmar, 99 rue des dames - 75017 Paris 17",https://www.kebab-frites.com/kebab/marmar-paris-17.html,48.883003,2.318337,650009.800,6864991.983
+Achiti,9,"Achiti, 41 rue de Bellefond - 75009 Paris 09",https://www.kebab-frites.com/kebab/achiti-paris-09.html,48.878231,2.345217,651976.616,6864444.686
+Food and Drinks,4,"Food and Drinks, Place Edmond Michelet - 75004 Paris 04",https://www.kebab-frites.com/kebab/food-and-drinks-paris-04.html,48.859926,2.350395,652339.630,6862406.170
+Ikinci Bahar,10,"Ikinci Bahar, 36 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/ikinci-bahar-paris-10.html,48.87119200,2.35354200,652580.771,6863656.966
+Kiziroglu Le Grand Pacha,14,"Kiziroglu Le Grand Pacha, 201 Bis Rue Raymond Losserand - 75014 Paris 14",https://www.kebab-frites.com/kebab/kiziroglu-le-grand-pacha-paris-14.html,48.828903,2.308109,649207.032,6858983.091
+A.V.S ( A votre service ),19,"A.V.S ( A votre service ), 30 avenue Jaures - 75019 Paris 19",https://www.kebab-frites.com/kebab/avs-a-votre-service-paris-19.html,48.883328,2.372915,654012.513,6864994.952
+Le Manolya,13,"Le Manolya, 136 Boulevard Vincent Auriol - 75013 Paris 13",https://www.kebab-frites.com/kebab/le-manolya-paris-13.html,48.832823,2.361025,653095.130,6859386.214
+Le 54 Restaurant,20,"Le 54 Restaurant, 54 rue alexandre dumas - 75020 Paris 20",https://www.kebab-frites.com/kebab/le-54-restaurant-paris-20.html,48.855035,2.398434,655859.952,6861834.407
+Royal Carthage,19,"Royal Carthage, 118 avenue de Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/royal-carthage-paris-19.html,48.892171,2.379123,654475.501,6865974.649
+Zamane,5,"Zamane, 118 rue Mouffetard - 75005 Paris 05",https://www.kebab-frites.com/kebab/zamane-paris-05.html,48.840315,2.349701,652270.755,6860226.030
+Chez Mouss,20,"Chez Mouss, 118 avenue Gambetta - 75020 Paris 20",https://www.kebab-frites.com/kebab/chez-mouss-paris-20.html,48.872194,2.40473,656336.298,6863738.859
+Art kebab,10,"Art kebab, 7 faubourg Saint Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/art-kebab-paris-10.html,48.870125,2.352725,652519.871,6863538.815
+Constantinople,14,"Constantinople, 141 bis rue d'Alésia - 75014 Paris 14",https://www.kebab-frites.com/kebab/constantinople-paris-14.html,48.829798,2.320957,650151.060,6859074.417
+Sanli Urfa,20,"Sanli Urfa, 7 boulevard Davout - 75020 Paris 20",https://www.kebab-frites.com/kebab/sanli-urfa-paris-20.html,48.84796,2.410966,656773.605,6861040.796
+Chez Jonathan,9,"Chez Jonathan, 24 Rue du Faubourg Montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/chez-jonathan-paris-09.html,48.873472,2.343009,651810.277,6863916.863
+Le Bosphore,9,"Le Bosphore, 57 rue du faubourg montmartre - 75009 Paris 09",https://www.kebab-frites.com/kebab/le-bosphore-paris-09.html,48.87558,2.34048,651626.739,6864152.804
+Al Boustan,16,"Al Boustan, 37 rue Saint Didier - 75016 Paris 16",https://www.kebab-frites.com/kebab/al-boustan-paris-16.html,48.866859,2.284015,647476.564,6863219.171
+Anytime Food,18,"Anytime Food, 6 boulevard de Clichy - 75018 Paris 18",https://www.kebab-frites.com/kebab/anytime-food-paris-18.html,48.882343,2.339014,651525.511,6864905.704
+Europe Pigalle,9,"Europe Pigalle, 1 rue Chaptal - 75009 Paris 09",https://www.kebab-frites.com/kebab/europe-pigalle-paris-09.html,48.880446,2.334713,651208.321,6864697.418
+Tayba,20,"Tayba, 145 bis rue de Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/tayba-paris-20.html,48.870263,2.397004,655767.958,6863528.445
+Chouchou,10,"Chouchou, 5 Boulevard de Strasbourg - 75010 Paris 10",https://www.kebab-frites.com/kebab/chouchou-paris-10.html,48.869793,2.354288,652634.218,6863500.960
+Le Petit Sultan,9,"Le Petit Sultan, 1 bis rue bleue - 75009 Paris 09",https://www.kebab-frites.com/kebab/le-petit-sultan-paris-09.html,48.875753,2.347762,652160.993,6864167.604
+Restaurant Istanbul,11,"Restaurant Istanbul, 42 rue de l'orillon - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-istanbul-paris-11.html,48.87065,2.378049,654377.905,6863582.262
+Tuz Gölü,20,"Tuz Gölü, 83 Rue Pixérécourt - 75020 Paris 20",https://www.kebab-frites.com/kebab/tuz-golu-paris-20.html,48.874803,2.395545,655664.802,6864034.081
+Kebab gare du nord,10,"Kebab gare du nord, 12 Boulevard de Denain - 75010 Paris 10",https://www.kebab-frites.com/kebab/kebab-gare-du-nord-paris-10.html,48.879649,2.354925,652689.897,6864596.498
+Relais Vaugirard,15,"Relais Vaugirard, 254 rue de Vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/relais-vaugirard-paris-15.html,48.839831,2.301711,648748.101,6860202.293
+Madrevo,2,"Madrevo, 44 rue Poissonière - 75002 Paris 02",https://www.kebab-frites.com/kebab/madrevo-paris-02.html,48.870314,2.347978,652171.841,6863562.695
+House Food,13,"House Food, 86 Rue Albert - 75013 Paris 13",https://www.kebab-frites.com/kebab/house-food-paris-13.html,48.827252,2.370708,653800.973,6858761.073
+Restauration Rapide,20,"Restauration Rapide, 190 rue de belleville - 75020 Paris 20",https://www.kebab-frites.com/kebab/restauration-rapide-paris-20.html,48.875241,2.393842,655540.268,6864083.742
+Resto L'Espoir,15,"Resto L'Espoir, 41 rue des Entrepreneurs - 75015 Paris 15",https://www.kebab-frites.com/kebab/resto-lespoir-paris-15.html,48.846179,2.286869,647665.156,6860917.857
+Restaurant Gül,11,"Restaurant Gül, 228 Boulevard Voltaire - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-gul-paris-11.html,48.852459,2.388759,655147.844,6861553.430
+Restaurant le Y,9,"Restaurant le Y, 24 rue godot de mauroy - 75009 Paris 09",https://www.kebab-frites.com/kebab/restaurant-le-y-paris-09.html,48.871592,2.327244,650652.175,6863717.557
+Gallika,9,"Gallika, 7 rue Godot de Mauroy - 75009 Paris 09",https://www.kebab-frites.com/kebab/gallika-paris-09.html,48.870687,2.326745,650614.715,6863617.240
+Le Bosphore,1,"Le Bosphore, 82 Rue Saint-Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/le-bosphore-paris-01.html,48.86222700,2.34949000,652275.341,6862662.569
+La Focaccina,14,"La Focaccina, 119 rue Didot - 75014 Paris 14",https://www.kebab-frites.com/kebab/la-focaccina-paris-14.html,48.827563,2.314974,649709.699,6858829.705
+Les délices d'Orient,10,"Les délices d'Orient, 100 boulevard Magenta - 75010 Paris 10",https://www.kebab-frites.com/kebab/les-delices-dorient-paris-10.html,48.877835,2.354926,652688.323,6864394.792
+Restaurant Rime,18,"Restaurant Rime, 50 rue marx dormoy - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-rime-paris-18.html,48.887742,2.360017,653070.632,6865493.353
+Lyon Fast,12,"Lyon Fast, 9 rue hector malot - 75012 Paris 12",https://www.kebab-frites.com/kebab/lyon-fast-paris-12.html,48.845806,2.375619,654177.816,6860821.222
+Restaurant Pixexpress,20,"Restaurant Pixexpress, 86 rue Pixerecourt - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-pixexpress-paris-20.html,48.874929,2.3956,655668.943,6864048.061
+Happy Food,20,"Happy Food, 9 rue de Bagnolet - 75020 Paris 20",https://www.kebab-frites.com/kebab/happy-food-paris-20.html,48.856751,2.395211,655624.930,6862027.019
+Snack Ugarite,19,"Snack Ugarite, 57 Rue de Belleville - 75019 Paris 19",https://www.kebab-frites.com/kebab/snack-ugarite-paris-19.html,48.873307,2.381703,654648.245,6863875.597
+Le vrai gout du Liban,6,"Le vrai gout du Liban, 36 rue St André des Arts - 75006 Paris 06",https://www.kebab-frites.com/kebab/le-vrai-gout-du-liban-paris-06.html,48.853396,2.341726,651697.562,6861685.359
+Délices Harpe,5,"Délices Harpe, 15 Rue de la Harpe - 75005 Paris 05",https://www.kebab-frites.com/kebab/delices-harpe-paris-05.html,48.852584,2.344738,651917.821,6861593.234
+Restaurant Rosa,14,"Restaurant Rosa, 58 avenue du général Leclerc - 75014 Paris 14",https://www.kebab-frites.com/kebab/restaurant-rosa-paris-14.html,48.830053,2.328509,650705.684,6859098.029
+La Parisienne,12,24 boulevard Diderot - 75012 Paris 12,https://www.kebab-frites.com/kebab/la-parisienne-paris-12.html,48.8458401,2.3748428,654120.883,6860825.464
+Snack Beyrouth,15,"Snack Beyrouth, 59 rue de Vouillé - 75015 Paris 15",https://www.kebab-frites.com/kebab/snack-beyrouth-paris-15.html,48.833549,2.309635,649323.572,6859498.691
+Restaurant Izmir,9,"Restaurant Izmir, 62 rue rue Jean-Baptiste Pigalle - 75009 Paris 09",https://www.kebab-frites.com/kebab/restaurant-izmir-paris-09.html,48.881576,2.336763,651359.718,6864821.802
+Soleil d'Anatolie,20,"Soleil d'Anatolie, 5 rue Etienne Dollet - 75020 Paris 20",https://www.kebab-frites.com/kebab/soleil-danatolie-paris-20.html,48.867681,2.383526,654777.074,6863248.979
+L'escapade,13,"L'escapade, 44 Rue Baudricourt - 75013 Paris 13",https://www.kebab-frites.com/kebab/lescapade-paris-13.html,48.826907,2.363786,653292.501,6858726.785
+Chez Alexandre,1,"Chez Alexandre, 16 rue du Louvre - 75001 Paris 01",https://www.kebab-frites.com/kebab/chez-alexandre-paris-01.html,48.861297,2.341171,651664.169,6862564.221
+Chilane,18,"Chilane, 179 Rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/chilane-paris-18.html,48.893594,2.335899,651307.595,6866158.667
+Hangar Türkü,10,"Hangar Türkü, 29 rue d’Enghien - 75010 Paris 10",https://www.kebab-frites.com/kebab/hangar-turku-paris-10.html,48.872005,2.35051,652359.115,6863749.191
+Pizza Zizou,14,"Pizza Zizou, 1 rue Francis de Préssencé - 75014 Paris 14",https://www.kebab-frites.com/kebab/pizza-zizou-paris-14.html,48.834171,2.316182,649804.744,6859563.669
+Mac Doner,11,"Mac Doner, 49 boulevard Voltaire - 75011 Paris 11",https://www.kebab-frites.com/kebab/mac-doner-paris-11.html,48.862431,2.372673,653976.305,6862671.490
+Restaurant Burkay,11,"Restaurant Burkay, 41 rue Timbaud - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-burkay-paris-11.html,48.866614,2.373039,654006.849,6863136.394
+Grec Doner Kebab,19,"Grec Doner Kebab, 253 rue de Belleville - 75019 Paris 19",https://www.kebab-frites.com/kebab/grec-doner-kebab-paris-19.html,48.875555,2.398147,655856.285,6864116.241
+Ankara,18,"Ankara, 29 boulevard ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/ankara-paris-18.html,48.894028,2.347399,652151.164,6866199.895
+Mac Doner,6,"Mac Doner, 112 Bis Rue De Rennes - 75006 Paris 06",https://www.kebab-frites.com/kebab/mac-doner-paris-06.html,48.847696,2.327371,650638.856,6861060.451
+Mac doner,18,"Mac doner, 14 avenue de clichy - 75018 Paris 18",https://www.kebab-frites.com/kebab/mac-doner-paris-18.html,48.884637,2.327083,650652.727,6865168.172
+Restaurant Delicious,20,"Restaurant Delicious, 62 Rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-delicious-paris-20.html,48.852166,2.403634,656239.087,6861512.504
+Chicken Point's,9,"Chicken Point's, 32 Boulevard de Clichy - 75009 Paris 09",https://www.kebab-frites.com/kebab/chicken-points-paris-09.html,48.882359,2.33667,651353.629,6864908.924
+Suite Au Kebab,3,"Suite Au Kebab, 7 Rue des Arquebusiers - 75003 Paris 03",https://www.kebab-frites.com/kebab/suite-au-kebab-paris-03.html,48.859175,2.366751,653538.945,6862312.917
+Chicken Hot,10,"Chicken Hot, 91 boulevard Magenta - 75010 Paris 10",https://www.kebab-frites.com/kebab/chicken-hot-paris-10.html,48.877719,2.354522,652658.587,6864382.136
+Cambronne Express,15,"Cambronne Express, 4 boulevard Garibaldi - 75015 Paris 15",https://www.kebab-frites.com/kebab/cambronne-express-paris-15.html,48.847461,2.302415,648807.266,6861050.211
+Food House,13,"Food House, 46 avenue d'italie - 75013 Paris 13",https://www.kebab-frites.com/kebab/food-house-paris-13.html,48.828035,2.356406,652751.734,6858856.597
+Les Frangins,17,"Les Frangins, 27 Boulevard Bessieres - 75017 Paris 17",https://www.kebab-frites.com/kebab/les-frangins-paris-17.html,48.89737,2.325891,650577.403,6866584.757
+La Croisette,19,"La Croisette, 68 avenue de flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/la-croisette-paris-19.html,48.888726,2.37475,654151.833,6865594.113
+Restaurant Hunkar,20,"Restaurant Hunkar, 16 rue de Ménilmontant - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-hunkar-paris-20.html,48.867346,2.384571,654853.441,6863211.132
+Le délice d'Istanbul,13,"Le délice d'Istanbul, 7 bis avenue d italie - 75013 Paris 13",https://www.kebab-frites.com/kebab/le-delice-distanbul-paris-13.html,48.829864,2.356408,652753.539,6859059.959
+Fast Balard,15,"Fast Balard, 147 avenue Félix Faure - 75015 Paris 15",https://www.kebab-frites.com/kebab/fast-balard-paris-15.html,48.837045,2.279211,647093.900,6859907.361
+Fournil St Jacques,14,"Fournil St Jacques, 11 rue de la Tombe Issoire - 75014 Paris 14",https://www.kebab-frites.com/kebab/fournil-st-jacques-paris-14.html,48.832517,2.335768,651240.861,6859367.490
+Doner Kebab,5,"Doner Kebab, 17 Rue du Val de Grace - 75005 Paris 05",https://www.kebab-frites.com/kebab/doner-kebab-paris-05.html,48.841415,2.338755,651468.407,6860355.011
+L'Authentique Panini,15,"L'Authentique Panini, 399 Rue de Vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/lauthentique-panini-paris-15.html,48.833454,2.289725,647862.017,6859501.090
+Fallafel Chatelet,1,"Fallafel Chatelet, 93 Rue Saint-Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/fallafel-chatelet-paris-01.html,48.86226300,2.34932800,652263.489,6862666.670
+L'étoile,15,"L'étoile, 220 Rue de la Convention - 75015 Paris 15",https://www.kebab-frites.com/kebab/letoile-paris-15.html,48.836424,2.298838,648533.875,6859825.341
+L'original,18,"L'original, 69 rue Ordener - 75018 Paris 18",https://www.kebab-frites.com/kebab/loriginal-paris-18.html,48.891341,2.350225,652355.903,6865899.406
+Kebab trinité,9,"Kebab trinité, 5 place d'Estienne d'Orves - 75009 Paris 09",https://www.kebab-frites.com/kebab/kebab-trinite-paris-09.html,48.876839,2.330713,650911.571,6864298.823
+Grenelle Sandwich,15,"Grenelle Sandwich, 105 bis Boulevard de Grenelle - 75015 Paris 15",https://www.kebab-frites.com/kebab/grenelle-sandwich-paris-15.html,48.849485,2.297308,648434.498,6861278.583
+Le Pacha Grill,12,"Le Pacha Grill, 120 cours de Vincennes - 75012 Paris 12",https://www.kebab-frites.com/kebab/le-pacha-grill-paris-12.html,48.846701,2.41062,656747.169,6860900.996
+King Falafel Palace,4,"King Falafel Palace, 24 rue des Rosiers - 75004 Paris 04",https://www.kebab-frites.com/kebab/king-falafel-palace-paris-04.html,48.857146,2.359597,653012.243,6862091.543
+Le palais du sandwich,14,"Le palais du sandwich, 137 rue d'Alèsia - 75014 Paris 14",https://www.kebab-frites.com/kebab/le-palais-du-sandwich-paris-14.html,48.829562,2.321614,650199.064,6859047.762
+Snack Time,18,"Snack Time, 96 boulevard de Rochechouart - 75018 Paris 18",https://www.kebab-frites.com/kebab/snack-time-paris-18.html,48.88267,2.342041,651747.799,6864940.210
+Chez Kelal,17,"Chez Kelal, 141 Avenue de Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/chez-kelal-paris-17.html,48.890907,2.319379,650093.790,6865870.201
+Paristanbul,11,152 Rue du Chemin Vert - 75011 Paris 11,https://www.kebab-frites.com/kebab/paristanbul-paris-11.html,48.8627001,2.3869148,655021.363,6862693.205
+L'étage,20,"L'étage, 9 rue des amandiers - 75020 Paris 20",https://www.kebab-frites.com/kebab/letage-paris-20.html,48.86591,2.389576,655219.355,6863048.609
+Semra,18,"Semra, 27 rue de Clignancourt - 75018 Paris 18",https://www.kebab-frites.com/kebab/semra-paris-18.html,48.885504,2.347255,652132.770,6865252.160
+Le Prélud,8,"Le Prélud, 34 rue de Ponthieu - 75008 Paris 08",https://www.kebab-frites.com/kebab/le-prelud-paris-08.html,48.871145,2.308342,649265.280,6863679.833
+Le Royal Palace,15,"Le Royal Palace, 337 Rue de Vaugirard - 75015 Paris 15",https://www.kebab-frites.com/kebab/le-royal-palace-paris-15.html,48.837409,2.296982,648398.621,6859936.074
+Restaurant Layal,8,"Restaurant Layal, 98 rue de la Boétie - 75008 Paris 08",https://www.kebab-frites.com/kebab/restaurant-layal-paris-08.html,48.872115,2.308816,649300.992,6863787.385
+La Parisienne,10,10 Rue des petites écuries - 75010 Paris 10,https://www.kebab-frites.com/kebab/la-parisienne-paris-10.html,48.8732122,2.3533229,652566.539,6863881.730
+Restaurant Efes,10,"Restaurant Efes, 25 Rue du faubourd du temple - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-efes-paris-10.html,48.868581,2.366546,653532.295,6863358.911
+Délices D'Edessa,10,"Délices D'Edessa, 109 Boulevard de Magenta - 75010 Paris 10",https://www.kebab-frites.com/kebab/delices-dedessa-paris-10.html,48.879104,2.35328,652568.758,6864536.884
+1001 Nuits,13,"1001 Nuits, 41 Quai Panhard et Levassor - 75013 Paris 13",https://www.kebab-frites.com/kebab/1001-nuits-paris-13.html,48.829208,2.383238,654722.534,6858971.300
+Chamyat,18,"Chamyat, Avenue de Saint Ouen - 75018 Paris 18",https://www.kebab-frites.com/kebab/chamyat-paris-18.html,48.892017,2.327278,650674.018,6865988.664
+Cartage II,1,"Cartage II, 35 Rue Saint Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/cartage-ii-paris-01.html,48.85999600,2.34811900,652172.712,6862415.330
+Sandwich Pizza,14,"Sandwich Pizza, 117 Avenue du Général Leclerc - 75014 Paris 14",https://www.kebab-frites.com/kebab/sandwich-pizza-paris-14.html,48.824342,2.326041,650519.092,6858464.577
+M K Fast Food,14,"M K Fast Food, 58 rue de la santé - 75014 Paris 14",https://www.kebab-frites.com/kebab/m-k-fast-food-paris-14.html,48.831042,2.341138,651633.678,6859200.184
+Apollon,7,"Apollon, 24 Rue Jean Nicot - 75007 Paris 07",https://www.kebab-frites.com/kebab/apollon-paris-07.html,48.859895,2.307616,649201.058,6862429.394
+Restaurant Roni,20,"Restaurant Roni, 110 Boulevard Davout - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-roni-paris-20.html,48.858501,2.410036,656714.115,6862213.375
+Restaurant Sibel,14,"Restaurant Sibel, 61 rue Raymond Losserand - 75014 Paris 14",https://www.kebab-frites.com/kebab/restaurant-sibel-paris-14.html,48.834447,2.319212,650027.418,6859592.435
+Croc Nivert,15,"Croc Nivert, 8 rue de la Croix-Nivert - 75015 Paris 15",https://www.kebab-frites.com/kebab/croc-nivert-paris-15.html,48.8473449,2.3005572,648670.819,6861038.508
+Sun Fast Food,10,"Sun Fast Food, 148 rue de la fayette - 75010 Paris 10",https://www.kebab-frites.com/kebab/sun-fast-food-paris-10.html,48.878802,2.355493,652730.785,6864501.976
+La fin de la faim,14,"La fin de la faim, 14 boulevard Jourdan - 75014 Paris 14",https://www.kebab-frites.com/kebab/la-fin-de-la-faim-paris-14.html,48.819826,2.34259,651729.882,6857952.211
+Merina,10,"Merina, 58 Rue Du Chateau Landon - 75010 Paris 10",https://www.kebab-frites.com/kebab/merina-paris-10.html,48.88403,2.364597,653403.151,6865077.887
+Repas Express,17,"Repas Express, 17 rue lemercier - 75017 Paris 17",https://www.kebab-frites.com/kebab/repas-express-paris-17.html,48.886044,2.324263,650447.271,6865326.388
+Restaurant Saray,11,"Restaurant Saray, 112 rue du chemin Vert - 75011 Paris 11",https://www.kebab-frites.com/kebab/restaurant-saray-paris-11.html,48.861689,2.383143,654743.774,6862582.934
+Snack Kiziroglu Ali Baba,12,"Snack Kiziroglu Ali Baba, 235 Rue De Bercy - 75012 Paris 12",https://www.kebab-frites.com/kebab/snack-kiziroglu-ali-baba-paris-12.html,48.846889,2.369199,653707.636,6860945.386
+Marmara kebab,9,"Marmara kebab, 4 Rue Budapest - 75009 Paris 09",https://www.kebab-frites.com/kebab/marmara-kebab-paris-09.html,48.876077,2.327726,650691.775,6864215.956
+Snack Bonne Bouffe,10,"Snack Bonne Bouffe, 7 Rue de Chabrol - 75010 Paris 10",https://www.kebab-frites.com/kebab/snack-bonne-bouffe-paris-10.html,48.876501,2.355302,652714.688,6864246.235
+L'Express,17,"L'Express, 13 Boulevard des Batignolles - 75017 Paris 17",https://www.kebab-frites.com/kebab/lexpress-paris-17.html,48.882562,2.321676,650254.241,6864940.838
+Marmaris,1,"Marmaris, 17 rue Saint Denis - 75001 Paris 01",https://www.kebab-frites.com/kebab/marmaris-paris-01.html,48.85940900,2.34774000,652144.367,6862350.290
+Cesme Restauration Rapide,11,"Cesme Restauration Rapide, 34 Rue du Faubourg du Temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/cesme-restauration-rapide-paris-11.html,48.868988,2.368245,653657.287,6863403.168
+Restaurant Elite,14,"Restaurant Elite, 4 boulevard Brune - 75014 Paris 14",https://www.kebab-frites.com/kebab/restaurant-elite-paris-14.html,48.82766,2.304644,648951.450,6858847.119
+Blue marmara,10,"Blue marmara, 40 boulevard de bonne nouvelle - 75010 Paris 10",https://www.kebab-frites.com/kebab/blue-marmara-paris-10.html,48.870758,2.348612,652218.753,6863611.681
+Sandwich Doner,14,"Sandwich Doner, 6 rue Odessa - 75014 Paris 14",https://www.kebab-frites.com/kebab/sandwich-doner-paris-14.html,48.842756,2.324326,650410.703,6860513.081
+Kebab Paris,13,108 avenue d'Italie - 75013 Paris 13,https://www.kebab-frites.com/kebab/kebab-paris-paris-13.html,48.8246427,2.3574677,652826.606,6858478.778
+Restaurant Méditerranée,6,"Restaurant Méditerranée, 2, Place de l'Odéon - 75006 Paris 06",https://www.kebab-frites.com/kebab/restaurant-mediterranee-paris-05.html,48.850089,2.338522,651459.386,6861319.617
+Genç Urfa Durum,10,"Genç Urfa Durum, 11 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/genc-urfa-durum-paris-10.html,48.870251,2.352792,652524.900,6863552.785
+Kebab reuilly,12,"Kebab reuilly, 47 Boulevard Reuilly - 75012 Paris 12",https://www.kebab-frites.com/kebab/kebab-reuilly-paris-12.html,48.839591,2.394064,655526.131,6860119.628
+Le Baron,8,"Le Baron, 3 Rue de Washington - 75008 Paris 08",https://www.kebab-frites.com/kebab/le-baron-paris-08.html,48.872358,2.301683,648778.032,6863819.008
+Le Caravanserail,11,"Le Caravanserail, 2 bis rue neuve popincourt - 75011 Paris 11",https://www.kebab-frites.com/kebab/le-caravanserail-paris-11.html,48.864691,2.373792,654060.392,6862922.133
+Croq Chateau,14,"Croq Chateau, 139 rue du chateau - 75014 Paris 14",https://www.kebab-frites.com/kebab/croq-chateau-paris-14.html,48.834602,2.321485,650194.409,6859608.233
+Sidi Boussaïd,10,"Sidi Boussaïd, 38 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/sidi-boussaid-paris-10.html,48.871255,2.353576,652583.322,6863663.951
+Apollon,10,"Apollon, 87 rue du Faubourg saint Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/apollon-paris-10.html,48.873779,2.354916,652683.905,6863943.798
+Le 32,16,"Le 32, 32 Rue Des Belles Feuilles - 75016 Paris 16",https://www.kebab-frites.com/kebab/le-32-paris-16.html,48.86733,2.281667,647304.800,6863273.107
+Pizza Plus,17,"Pizza Plus, 118 Avenue Clichy - 75017 Paris 17",https://www.kebab-frites.com/kebab/pizza-plus-paris-17.html,48.89001,2.321452,650244.931,6865769.152
+Asteria,5,"Asteria, 15 Rue de la Huchette - 75005 Paris 05",https://www.kebab-frites.com/kebab/asteria-paris-05.html,48.852911,2.345818,651997.369,6861628.936
+Le Baal,1,"Le Baal, 14 Rue Sauval - 75001 Paris 01",https://www.kebab-frites.com/kebab/le-baal-paris-01.html,48.862011,2.34259,651768.934,6862642.744
+Restaurant Titanic,14,"Restaurant Titanic, 111 rue Raymond Losserand - 75014 Paris 14",https://www.kebab-frites.com/kebab/restaurant-titanic-paris-14.html,48.832795,2.316096,649797.106,6859410.728
+St Eustache Chawarma,2,"St Eustache Chawarma, 20 Rue De Montmartre - 75002 Paris 02",https://www.kebab-frites.com/kebab/st-eustache-chawarma-paris-02.html,48.867924,2.343838,651865.956,6863299.461
+Turkish snack,11,"Turkish snack, 26 rue du faubourg du temple - 75011 Paris 11",https://www.kebab-frites.com/kebab/turkish-snack-paris-11.html,48.86850800,2.36670300,653543.747,6863350.702
+Mimosa,2,"Mimosa, 159 Rue Montmartre - 75002 Paris 02",https://www.kebab-frites.com/kebab/mimosa-paris-02.html,48.870835,2.342715,651786.272,6863623.827
+Chez Igur Gul,11,"Chez Igur Gul, 146 Rue du Chemin Vert - 75011 Paris 11",https://www.kebab-frites.com/kebab/chez-igur-gul-paris-11.html,48.862595,2.386574,654996.270,6862681.713
+Les Délices de Broca,13,"Les Délices de Broca, 69 rue Broca - 75013 Paris 13",https://www.kebab-frites.com/kebab/les-delices-de-broca-paris-13.html,48.836928,2.347006,652069.843,6859851.064
+Assoce,11,"Assoce, 48 bis Rue Saint Maur - 75011 Paris 11",https://www.kebab-frites.com/kebab/assoce-paris-11.html,48.862395,2.380023,654515.494,6862663.228
+Diyar,18,"Diyar, 16 place Jacques Froment - 75018 Paris 18",https://www.kebab-frites.com/kebab/diyar-paris-18.html,48.890878,2.331164,650957.871,6865859.593
+New Delice's,16,"New Delice's, 116 rue Michel Ange - 75016 Paris 16",https://www.kebab-frites.com/kebab/new-delices-paris-16.html,48.838915,2.257387,645494.014,6860130.127
+Les festins du maghreb,17,"Les festins du maghreb, 14 rue guy moquet - 75017 Paris 17",https://www.kebab-frites.com/kebab/les-festins-du-maghreb-paris-17.html,48.891501,2.320562,650181.099,6865935.504
+Kil Bill,20,"Kil Bill, Boulevard davout - 75020 Paris 20",https://www.kebab-frites.com/kebab/kil-bill-paris-20.html,48.855831,2.410039,656712.117,6861916.491
+Pamukkale Kebab,11,"Pamukkale Kebab, 141 rue de Charonne - 75011 Paris 11",https://www.kebab-frites.com/kebab/pamukkale-kebab-paris-11.html,48.855283,2.387777,655078.222,6861867.993
+Al Boustan,1,"Al Boustan, 21 Rue Montorgueil - 75001 Paris 01",https://www.kebab-frites.com/kebab/al-boustan-paris-01.html,48.864019,2.346454,652054.259,6862863.664
+Beyaz,12,"Beyaz, 7 rue Claude Tillier - 75012 Paris 12",https://www.kebab-frites.com/kebab/beyaz-paris-12.html,48.847809,2.38749,655050.717,6861037.113
+Micky's Deli,4,"Micky's Deli, 23 bis rue des rosiers - 75004 Paris 04",https://www.kebab-frites.com/kebab/mickys-deli-paris-04.html,48.857508,2.358724,652948.517,6862132.314
+Restaurant Delphe,10,"Restaurant Delphe, 130 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-delphe-paris-10.html,48.876932,2.356343,652791.429,6864293.536
+Ardahan Express,19,"Ardahan Express, 52 rue d'hautpoul - 75019 Paris 19",https://www.kebab-frites.com/kebab/ardahan-express-paris-19.html,48.884971,2.387278,655067.224,6865169.375
+Time Food,17,"Time Food, 85 rue des Martyrs - 75017 Paris 17",https://www.kebab-frites.com/kebab/time-food-paris-17.html,48.89172,2.321878,650277.800,6865959.026
+Istanbul grill,5,"Istanbul grill, 66 Rue Mouffetard - 75005 Paris 05",https://www.kebab-frites.com/kebab/istanbul-grill-paris-05.html,48.84284,2.349593,652265.141,6860506.850
+Restaurant Antioche,20,"Restaurant Antioche, 82 rue des Rigoles - 75020 Paris 20",https://www.kebab-frites.com/kebab/restaurant-antioche-paris-20.html,48.873728,2.390159,655268.837,6863917.586
+Restaurant Du Parc,19,"Restaurant Du Parc, 1 Rue Adolphe Mille - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-du-parc-paris-19.html,48.887954,2.389061,655200.541,6865500.056
+Golden Food,19,"Golden Food, 132 boulevard de la Villette - 75019 Paris 19",https://www.kebab-frites.com/kebab/golden-food-paris-19.html,48.878655,2.370574,653836.696,6864476.709
+Chez le Libanais,6,"Chez le Libanais, 35 rue Saint André des Arts - 75006 Paris 06",https://www.kebab-frites.com/kebab/chez-le-libanais-paris-06.html,48.853309,2.341669,651693.299,6861675.720
+Restaurant Pachamanca,3,"Restaurant Pachamanca, 2 impasse berthaud - 75003 Paris 03",https://www.kebab-frites.com/kebab/restaurant-pachamanca-paris-03.html,48.861343,2.353826,652592.640,6862561.663
+Antalya,15,"Antalya, 18 rue de l'arrivée - 75015 Paris 15",https://www.kebab-frites.com/kebab/antalya-paris-15.html,48.843146,2.321508,650204.261,6860558.218
+Kaza Maza,5,"Kaza Maza, 1 rue de l'école Polytechnique - 75005 Paris 05",https://www.kebab-frites.com/kebab/kaza-maza-paris-05.html,48.84739,2.348173,652165.103,6861013.624
+Happy Time,5,"Happy Time, 15 Rue Guy de la Brosse - 75005 Paris 05",https://www.kebab-frites.com/kebab/happy-time-paris-05.html,48.844843,2.35506,652668.187,6860726.272
+Le Saint Paul,4,"Le Saint Paul, 61 rue Saint Antoine - 75004 Paris 04",https://www.kebab-frites.com/kebab/le-saint-paul-paris-04.html,48.85413200,2.36379700,653317.699,6861753.921
+Elenya,14,"Elenya, 172 rue d'Alésia - 75014 Paris 14",https://www.kebab-frites.com/kebab/elenya-paris-14.html,48.831988,2.313859,649632.120,6859322.423
+Montathal Mohamed,14,"Montathal Mohamed, 57 rue beaunier - 75014 Paris 14",https://www.kebab-frites.com/kebab/montathal-mohamed-paris-14.html,48.824593,2.326305,650538.712,6858492.320
+Snack La Goulette,4,"Snack La Goulette, Rue de la Verrerie - 75004 Paris 04",https://www.kebab-frites.com/kebab/snack-la-goulette-paris-04.html,48.857973,2.353007,652529.484,6862187.440
+Azur Galatasaray,18,"Azur Galatasaray, 76 boulevard ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/azur-galatasaray-paris-18.html,48.89689,2.345502,652014.716,6866519.287
+L'Entracte,12,"L'Entracte, 92 avenue du docteur arnold netter - 75012 Paris 12",https://www.kebab-frites.com/kebab/lentracte-paris-12.html,48.847022,2.406367,656435.329,6860939.026
+Restaurant Deluxe,10,"Restaurant Deluxe, 50 Rue du Faubourg Saint-Denis - 75010 Paris 10",https://www.kebab-frites.com/kebab/restaurant-deluxe-paris-10.html,48.871946,2.35397,652612.851,6863740.549
+Restaurant Zam Zam,1,"Restaurant Zam Zam, 70 Rue Rambuteau - 75001 Paris 01",https://www.kebab-frites.com/kebab/restaurant-zam-zam-paris-01.html,48.862547,2.347614,652138.006,6862699.286
+Resto En Cas,9,"Resto En Cas, 62 Boulevard de Clichy - 75009 Paris 09",https://www.kebab-frites.com/kebab/resto-en-cas-paris-09.html,48.882359,2.33667,651353.629,6864908.924
+Etoile de Damas,17,"Etoile de Damas, 40 rue des Dames - 75017 Paris 17",https://www.kebab-frites.com/kebab/etoile-de-damas-paris-17.html,48.884213,2.323156,650364.350,6865123.488
+L'arche aux saveurs,8,"L'arche aux saveurs, 3 rue d'Argenson - 75008 Paris 08",https://www.kebab-frites.com/kebab/larche-aux-saveurs-paris-08.html,48.874489,2.317036,649906.205,6864046.110
+Restaurant Gulum,19,"Restaurant Gulum, 82 Avenue de Flandre - 75019 Paris 19",https://www.kebab-frites.com/kebab/restaurant-gulum-paris-19.html,48.889557,2.375804,654229.849,6865685.904
+Chez Abouhassira,9,"Chez Abouhassira, 4 Rue Geoffroy Marie - 75009 Paris 09",https://www.kebab-frites.com/kebab/chez-abouhassira-paris-09.html,48.873315,2.343698,651860.668,6863898.985
+Happy Days,15,"Happy Days, 163 Boulevard Lefébvre - 75015 Paris 15",https://www.kebab-frites.com/kebab/happy-days-paris-15.html,48.82898,2.300756,648667.325,6858996.408
+Maison du Gyros,5,"Maison du Gyros, 28 rue de la Huchette - 75005 Paris 05",https://www.kebab-frites.com/kebab/maison-du-gyros-paris-05.html,48.853198,2.345035,651940.180,6861661.324
+Le 140,13,"Le 140, 140 Avenue d'italie - 75013 Paris 13",https://www.kebab-frites.com/kebab/le-140-paris-13.html,48.823095,2.357936,652859.588,6858306.412
+Le Souvlaki,5,"Le Souvlaki, 23 rue de la Huchette - 75005 Paris 05",https://www.kebab-frites.com/kebab/le-souvlaki-paris-05.html,48.853025,2.345354,651963.427,6861641.894
+Turkish Grill & Chicken,20,"Turkish Grill & Chicken, 11 rue de Bagnolet - 75020 Paris 20",https://www.kebab-frites.com/kebab/turkish-grill-chicken-paris-20.html,48.85677,2.395372,655636.759,6862029.041
+Le Royal 13,13,"Le Royal 13, 87 Rue De Tolbiac - 75013 Paris 13",https://www.kebab-frites.com/kebab/le-royal-13-paris-13.html,48.827016,2.36721,653543.965,6858736.885
+Cheaper Food,13,"Cheaper Food, 5 Boulevard Saint Marcel - 75013 Paris 13",https://www.kebab-frites.com/kebab/cheaper-food-paris-13.html,48.839391,2.360686,653076.159,6860116.707
+Restaurant Taksim,18,"Restaurant Taksim, 1 rue forest - 75018 Paris 18",https://www.kebab-frites.com/kebab/restaurant-taksim-paris-18.html,48.884872,2.329341,650818.532,6865192.894
+Kebab Gourmets,12,"Kebab Gourmets, 85 rue de Reuilly - 75012 Paris 12",https://www.kebab-frites.com/kebab/kebab-gourmets-paris-12.html,48.844686,2.389875,655223.055,6860688.510
+Grill bosphore,19,"Grill bosphore, 8 Avenue Jean Jaures - 75019 Paris 19",https://www.kebab-frites.com/kebab/grill-bosphore-paris-19-1.html,48.882829,2.371017,653872.883,6864940.573
+Le Palace,18,"Le Palace, 42 boulevard Ornano - 75018 Paris 18",https://www.kebab-frites.com/kebab/le-palace-paris-18.html,48.894371,2.347611,652167.022,6866237.907
+Deniz,12,"Deniz, 81 rue Crozatier - 75012 Paris 12",https://www.kebab-frites.com/kebab/deniz-paris-12.html,48.850276,2.378747,654411.280,6861316.434
+Pizza House,13,"Pizza House, 152 Boulevard Vincent Auriol - 75013 Paris 13",https://www.kebab-frites.com/kebab/pizza-house-paris-13.html,48.832432,2.359854,653008.821,6859343.436
+Pizza Istambul,20,"Pizza Istambul, 116 Rue d'Avron - 75020 Paris 20",https://www.kebab-frites.com/kebab/pizza-istambul-paris-20.html,48.852835,2.407382,656514.666,6861584.821
+La Machoi,18,"La Machoi, 98 boulevard de Rochechouart - 75018 Paris 18",https://www.kebab-frites.com/kebab/la-machoi-paris-18.html,48.882605,2.341712,651723.612,6864933.184
+Le Soleil d'Anatolie,10,"Le Soleil d'Anatolie, 141, avenue Parmentier - 75010 Paris 10",https://www.kebab-frites.com/kebab/le-soleil-danatolie-paris-11.html,48.870456,2.370521,653825.541,6863565.066
