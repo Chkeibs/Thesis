@@ -150,6 +150,74 @@ The transformation is done via a `Transformer` object (always with `always_xy=Tr
 
 ---
 
+### 10. `Visualisation/map_paris_features.py` — Interactive Multi-layer Map of Paris
+
+**What this script does:**  
+This script builds an interactive HTML map of Paris (Folium/Leaflet) for a given year (`--year`), combining transaction-level and zone-level layers from the project pipeline.
+
+It automatically loads (when available) the yearly feature files and adds:
+- Heatmaps: noise, crime, station traffic, DPE, optional price CSV.
+- Point layers: stations, high schools, kebab shops, DVF transactions.
+- Polygon/outline layers: arrondissements, quartiers, full Paris 200 m INSEE grid.
+- Choropleths: average price per m² by arrondissement and by quartier.
+
+The output is saved to `Visualisation/resultats/paris_carte_features_<YEAR>.html`.
+
+**Main inputs used by year (`_year_paths`)**
+
+| Logical layer | File pattern |
+|---------------|--------------|
+| Noise | `Bruit/dvf75{YEAR}Bruit.csv` |
+| Crime | `Crime/dvf75{YEAR}Crime.csv` |
+| High schools | `Lycees/dvf75{YEAR}Lycees.csv` |
+| Stations | `Gares/dvf75{YEAR}Gares.csv` |
+| DPE | `DPE/dvf75{YEAR}Dpe.csv` |
+| City centre distance | `Centre/dvf75{YEAR}Centre.csv` |
+| District assignment | `Quartiers/dvf75{YEAR}Quartier.csv` |
+| Grid-cell indicators/coords | `Carreaux/resultats/dvf75{YEAR}Carreaux_indicateurs.csv` |
+| DVF prepared base | `DVFGEO/{YEAR}/75/dvf{YEAR}75_prepare.csv` |
+
+**Additional static/default inputs:**
+- Paris quartiers shapefile: `Quartiers/quartier_paris/quartier_paris.shp` (with associated `.dbf/.shx/.prj`).
+- National INSEE 200 m grid shapefile: `Carreaux/data/carreaux_200m_met.shp`.
+- Kebab points CSV (default CLI path): `kebabs_paris_with_coords_lambert93 (1).csv`.
+
+**Quick role of each input file (one sentence each):**
+- `Visualisation/map_paris_features.py`: main script that assembles all layers and exports the final interactive HTML map.
+- `Visualisation/requirements.txt`: Python dependencies needed to run the visualization script.
+- `Bruit/dvf75{YEAR}Bruit.csv`: yearly noise-enriched transaction points used for the noise heatmap.
+- `Crime/dvf75{YEAR}Crime.csv`: yearly crime-enriched transaction points used for the crime heatmap.
+- `Lycees/dvf75{YEAR}Lycees.csv`: yearly transaction points with lycée proximity used for school point overlay.
+- `Gares/dvf75{YEAR}Gares.csv`: yearly transaction/station-enriched data used for station traffic heatmap and station points.
+- `DPE/dvf75{YEAR}Dpe.csv`: yearly DPE attributes merged on mutation keys to build the DPE layer.
+- `Centre/dvf75{YEAR}Centre.csv`: yearly distance-to-centre data used for optional zonal intensity metrics.
+- `Quartiers/dvf75{YEAR}Quartier.csv`: yearly arrondissement/quartier identifiers per transaction used in zonal aggregations.
+- `Carreaux/resultats/dvf75{YEAR}Carreaux_indicateurs.csv`: yearly grid-cell indicators and coordinates used for density/poverty layers and DPE coordinate merge.
+- `DVFGEO/{YEAR}/75/dvf{YEAR}75_prepare.csv`: base yearly DVF transaction file used for price choropleths and transaction points.
+- `Quartiers/quartier_paris/quartier_paris.shp` (+ sidecar files): Paris district geometries used for quartier and arrondissement boundaries.
+- `Carreaux/data/carreaux_200m_met.shp` (+ sidecar files): INSEE 200 m grid geometries used for full-grid overlays and socio-demographic layers.
+- `kebabs_paris_with_coords_lambert93 (1).csv`: geocoded kebab points shown as a dedicated point layer.
+
+**Dependency bundle prepared in this repository:**
+- `Visualisation/dependances_map_paris/`: folder that lists all required inputs for the map (inventory file + short descriptions) for quick inspection and execution context.
+- `Visualisation/dependances_map_paris/bundle_no_shapefiles_2018/`: ready-to-use 2018 bundle without shapefiles (code + CSV + sample output HTML).
+
+**Shapefile note (public datasets):**
+- Quartier shapefile public source: `[ADD_LINK_HERE]`
+- Carreaux 200m shapefile public source: `[ADD_LINK_HERE]`
+
+**Key CLI options:**
+- `--year`: selects annual files (2018–2024).
+- `--decoupage-only`: draws only arrondissements/quartiers/carreaux outlines.
+- `--zone-metric` + `--add-zonal-intensity-layers`: optional zonal intensity choropleths (`bruit`, `crime`, `densite`, `pauvrete`, `dpe`, `distance_centre`).
+- `--kebabs-csv`: custom kebab points file.
+- `--prix-csv`: optional external price file for an additional heatmap.
+- `--output`: output HTML path.
+
+**Why this script:** it centralises all produced spatial features into one visual QA and interpretation tool, making it easier to inspect yearly patterns and compare neighbourhood effects before/after econometric estimation.
+
+---
+
 ## Data Sources
 
 | Data                      | Source                               | Granularity       |
@@ -187,3 +255,35 @@ pyproj
 
 Project carried out as part of research in real estate econometrics.  
 Code developed and adapted by **Marc Chkeiban** (with contributions from T. Kamionka).
+
+---
+
+## Appendix — Paris Map Dependency Bundles
+
+This appendix centralises the practical bundle information for the Paris map workflow.
+
+### A. Inventory Folder
+
+- Folder: `Visualisation/dependances_map_paris/`
+- Purpose: complete inventory of files used by the Paris map visualization for 2018.
+- Main inventory file: `Visualisation/dependances_map_paris/fichiers_map_paris_2018.tsv` (inputs, file type, one-line role).
+- Year adaptation note: for another year, replace `2018` with the target year in annual CSV paths.
+
+### B. Ready-to-use Bundle (No Shapefiles)
+
+- Folder: `Visualisation/dependances_map_paris/bundle_no_shapefiles_2018/`
+- Purpose: practical 2018 package excluding heavy shapefiles.
+
+Included subfolders:
+- `code/`: visualization script and Python requirements.
+- `data_2018/`: annual CSV inputs used by the map.
+- `static/`: kebab points CSV.
+- `output/`: generated 2018 HTML map example.
+
+### C. Shapefiles Policy
+
+Shapefiles are intentionally excluded from the lightweight bundle because they are large and publicly available datasets.
+
+Public source links (to be filled):
+- Quartier shapefile source: `[ADD_LINK_HERE]`
+- Carreaux 200m shapefile source: `[ADD_LINK_HERE]`
