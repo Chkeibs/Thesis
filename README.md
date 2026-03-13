@@ -150,7 +150,7 @@ The transformation is done via a `Transformer` object (always with `always_xy=Tr
 
 ---
 
-### 10. `Visualisation/map_paris_features.py` — Interactive Multi-layer Map of Paris
+### 10. `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/code/map_paris_features.py` — Interactive Multi-layer Map of Paris
 
 **What this script does:**  
 This script builds an interactive HTML map of Paris (Folium/Leaflet) for a given year (`--year`), combining transaction-level and zone-level layers from the project pipeline.
@@ -161,50 +161,49 @@ It automatically loads (when available) the yearly feature files and adds:
 - Polygon/outline layers: arrondissements, quartiers, full Paris 200 m INSEE grid.
 - Choropleths: average price per m² by arrondissement and by quartier.
 
-The output is saved to `Visualisation/resultats/paris_carte_features_<YEAR>.html`.
+In this repository bundle, an example output is available at `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/output/paris_carte_features_2018.html`.
 
-**Main inputs used by year (`_year_paths`)**
+**Main annual inputs present in this repository (2018 bundle)**
 
-| Logical layer | File pattern |
+| Logical layer | Existing file path |
 |---------------|--------------|
-| Noise | `Bruit/dvf75{YEAR}Bruit.csv` |
-| Crime | `Crime/dvf75{YEAR}Crime.csv` |
-| High schools | `Lycees/dvf75{YEAR}Lycees.csv` |
-| Stations | `Gares/dvf75{YEAR}Gares.csv` |
-| DPE | `DPE/dvf75{YEAR}Dpe.csv` |
-| City centre distance | `Centre/dvf75{YEAR}Centre.csv` |
-| District assignment | `Quartiers/dvf75{YEAR}Quartier.csv` |
-| Grid-cell indicators/coords | `Carreaux/resultats/dvf75{YEAR}Carreaux_indicateurs.csv` |
-| DVF prepared base | `DVFGEO/{YEAR}/75/dvf{YEAR}75_prepare.csv` |
+| Noise | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Bruit.csv` |
+| Crime | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Crime.csv` |
+| High schools | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Lycees.csv` |
+| Stations | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Gares.csv` |
+| DPE | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Dpe.csv` |
+| City centre distance | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Centre.csv` |
+| District assignment | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Quartier.csv` |
+| Grid-cell indicators/coords | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Carreaux_indicateurs.csv` |
+| DVF prepared base | `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf201875_prepare.csv` |
 
 **Additional static/default inputs:**
-- Paris quartiers shapefile: `Quartiers/quartier_paris/quartier_paris.shp` (with associated `.dbf/.shx/.prj`).
-- National INSEE 200 m grid shapefile: `Carreaux/data/carreaux_200m_met.shp`.
-- Kebab points CSV (default CLI path): `kebabs_paris_with_coords_lambert93 (1).csv`.
+- Kebab points CSV (included in this bundle): `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/static/kebabs_paris_with_coords_lambert93 (1).csv`.
+- Not included in this lightweight bundle (must be provided separately in execution environment):
+	- `quartier_paris.shp` (+ `.dbf/.shx/.prj/.cpg`)
+	- `carreaux_200m_met.shp` (+ `.dbf/.shx/.prj`)
 
 **Quick role of each input file (one sentence each):**
-- `Visualisation/map_paris_features.py`: main script that assembles all layers and exports the final interactive HTML map.
-- `Visualisation/requirements.txt`: Python dependencies needed to run the visualization script.
-- `Bruit/dvf75{YEAR}Bruit.csv`: yearly noise-enriched transaction points used for the noise heatmap.
-- `Crime/dvf75{YEAR}Crime.csv`: yearly crime-enriched transaction points used for the crime heatmap.
-- `Lycees/dvf75{YEAR}Lycees.csv`: yearly transaction points with lycée proximity used for school point overlay.
-- `Gares/dvf75{YEAR}Gares.csv`: yearly transaction/station-enriched data used for station traffic heatmap and station points.
-- `DPE/dvf75{YEAR}Dpe.csv`: yearly DPE attributes merged on mutation keys to build the DPE layer.
-- `Centre/dvf75{YEAR}Centre.csv`: yearly distance-to-centre data used for optional zonal intensity metrics.
-- `Quartiers/dvf75{YEAR}Quartier.csv`: yearly arrondissement/quartier identifiers per transaction used in zonal aggregations.
-- `Carreaux/resultats/dvf75{YEAR}Carreaux_indicateurs.csv`: yearly grid-cell indicators and coordinates used for density/poverty layers and DPE coordinate merge.
-- `DVFGEO/{YEAR}/75/dvf{YEAR}75_prepare.csv`: base yearly DVF transaction file used for price choropleths and transaction points.
-- `Quartiers/quartier_paris/quartier_paris.shp` (+ sidecar files): Paris district geometries used for quartier and arrondissement boundaries.
-- `Carreaux/data/carreaux_200m_met.shp` (+ sidecar files): INSEE 200 m grid geometries used for full-grid overlays and socio-demographic layers.
-- `kebabs_paris_with_coords_lambert93 (1).csv`: geocoded kebab points shown as a dedicated point layer.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/code/map_paris_features.py`: main script that assembles all layers and exports the final interactive HTML map.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/code/requirements.txt`: Python dependencies needed to run the visualization script.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Bruit.csv`: noise-enriched transaction points used for the noise heatmap.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Crime.csv`: crime-enriched transaction points used for the crime heatmap.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Lycees.csv`: transaction points with lycée proximity used for school point overlay.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Gares.csv`: transaction/station-enriched data used for station traffic heatmap and station points.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Dpe.csv`: DPE attributes merged on mutation keys to build the DPE layer.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Centre.csv`: distance-to-centre data used for optional zonal intensity metrics.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Quartier.csv`: arrondissement/quartier identifiers per transaction used in zonal aggregations.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Carreaux_indicateurs.csv`: grid-cell indicators and coordinates used for density/poverty layers and DPE coordinate merge.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf201875_prepare.csv`: prepared DVF transaction file used for price choropleths and transaction points.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/static/kebabs_paris_with_coords_lambert93 (1).csv`: geocoded kebab points shown as a dedicated point layer.
 
 **Dependency bundle prepared in this repository:**
-- `Visualisation/dependances_map_paris/`: folder that lists all required inputs for the map (inventory file + short descriptions) for quick inspection and execution context.
-- `Visualisation/dependances_map_paris/bundle_no_shapefiles_2018/`: ready-to-use 2018 bundle without shapefiles (code + CSV + sample output HTML).
+- `dependances_map_paris/dependances_map_paris/`: folder that lists all required inputs for the map (inventory file + short descriptions) for quick inspection and execution context.
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/`: ready-to-use 2018 bundle without shapefiles (code + CSV + sample output HTML).
 
 **Shapefile note (public datasets):**
-- Quartier shapefile public source: `[ADD_LINK_HERE]`
-- Carreaux 200m shapefile public source: `[ADD_LINK_HERE]`
+- Quartier shapefile public source: `[https://opendata.paris.fr/pages/home/]`
+- Carreaux 200m shapefile public source: `[https://www.insee.fr/fr/statistiques/7655475?sommaire=7655515]`
 
 **Key CLI options:**
 - `--year`: selects annual files (2018–2024).
@@ -264,14 +263,14 @@ This appendix centralises the practical bundle information for the Paris map wor
 
 ### A. Inventory Folder
 
-- Folder: `Visualisation/dependances_map_paris/`
+- Folder: `dependances_map_paris/dependances_map_paris/`
 - Purpose: complete inventory of files used by the Paris map visualization for 2018.
-- Main inventory file: `Visualisation/dependances_map_paris/fichiers_map_paris_2018.tsv` (inputs, file type, one-line role).
+- Main inventory file: `dependances_map_paris/dependances_map_paris/fichiers_map_paris_2018.tsv` (inputs, file type, one-line role).
 - Year adaptation note: for another year, replace `2018` with the target year in annual CSV paths.
 
 ### B. Ready-to-use Bundle (No Shapefiles)
 
-- Folder: `Visualisation/dependances_map_paris/bundle_no_shapefiles_2018/`
+- Folder: `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/`
 - Purpose: practical 2018 package excluding heavy shapefiles.
 
 Included subfolders:
@@ -285,5 +284,24 @@ Included subfolders:
 Shapefiles are intentionally excluded from the lightweight bundle because they are large and publicly available datasets.
 
 Public source links (to be filled):
-- Quartier shapefile source: `[ADD_LINK_HERE]`
-- Carreaux 200m shapefile source: `[ADD_LINK_HERE]`
+- Quartier shapefile source: `[https://opendata.paris.fr/pages/home/]`
+- Carreaux 200m shapefile source: `[https://www.insee.fr/fr/statistiques/7655475?sommaire=7655515]`
+
+### D. Files currently deposited in this GitHub repository (bundle scope)
+
+- `dependances_map_paris/dependances_map_paris/fichiers_map_paris_2018.tsv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/code/map_paris_features.py`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/code/requirements.txt`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf201875_prepare.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Bruit.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Carreaux_indicateurs.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Centre.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Crime.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Dpe.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Gares.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Lycees.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/data_2018/dvf752018Quartier.csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/static/kebabs_paris_with_coords_lambert93 (1).csv`
+- `dependances_map_paris/dependances_map_paris/bundle_no_shapefiles_2018/output/paris_carte_features_2018.html`
+
+Note: hidden system files (`.DS_Store`) are excluded from this documentation list.
